@@ -1,0 +1,766 @@
+Season,Episode,Defender,Captain,Opp1,Opp2,Opp3,VerdictTeam,Verdict1,Verdict2,Verdict3,Veracity
+1,1,Dom Joly,Lee Mack,David Mitchell,Duncan Bannatyne,Frankie Boyle,FALSE,FALSE,TRUE,TRUE,TRUE
+1,1,Duncan Bannatyne,David Mitchell,Lee Mack,Natalie Cassidy,Dom Joly,TRUE,TRUE,TRUE,TRUE,TRUE
+1,1,Natalie Cassidy,Lee Mack,David Mitchell,Duncan Bannatyne,Frankie Boyle,TRUE,TRUE,TRUE,TRUE,FALSE
+1,1,Lee Mack,Lee Mack,David Mitchell,Duncan Bannatyne,Frankie Boyle,TRUE,TRUE,TRUE,FALSE,FALSE
+1,1,David Mitchell,David Mitchell,Lee Mack,Natalie Cassidy,Dom Joly,TRUE,TRUE,TRUE,TRUE,TRUE
+1,1,Dom Joly,Lee Mack,David Mitchell,Duncan Bannatyne,Frankie Boyle,TRUE,TRUE,TRUE,FALSE,FALSE
+1,1,Frankie Boyle,David Mitchell,Lee Mack,Natalie Cassidy,Dom Joly,FALSE,FALSE,FALSE,TRUE,TRUE
+1,1,David Mitchell,David Mitchell,Lee Mack,Natalie Cassidy,Dom Joly,TRUE,TRUE,TRUE,TRUE,FALSE
+1,2,John Barrowman,Lee Mack,David Mitchell,Patrick McGuiness,Fay Ripley,FALSE,FALSE,TRUE,FALSE,TRUE
+1,2,Patrick McGuiness,David Mitchell,Lee Mack,John Barrowman,Dominic Wood,FALSE,FALSE,FALSE,FALSE,FALSE
+1,2,Dominic Wood,Lee Mack,David Mitchell,Patrick McGuiness,Fay Ripley,TRUE,TRUE,TRUE,TRUE,FALSE
+1,2,Fay Ripley,David Mitchell,Lee Mack,John Barrowman,Dominic Wood,FALSE,FALSE,FALSE,FALSE,TRUE
+1,2,Lee Mack,Lee Mack,David Mitchell,Patrick McGuiness,Fay Ripley,FALSE,FALSE,FALSE,FALSE,FALSE
+1,2,Patrick McGuiness,David Mitchell,Lee Mack,John Barrowman,Dominic Wood,FALSE,FALSE,TRUE,FALSE,FALSE
+1,3,Ulrika Jonsson,Lee Mack,David Mitchell,Eamonn Holmes,Dara O Brien,FALSE,FALSE,FALSE,TRUE,TRUE
+1,3,David Mitchell,David Mitchell,Lee Mack,Jimmy Carr,Ulrika Jonsson,FALSE,FALSE,TRUE,FALSE,TRUE
+1,3,Jimmy Carr,Lee Mack,David Mitchell,Eamonn Holmes,Dara O Brien,TRUE,TRUE,TRUE,TRUE,FALSE
+1,3,Eamonn Holmes,David Mitchell,Lee Mack,Jimmy Carr,Ulrika Jonsson,TRUE,TRUE,TRUE,TRUE,FALSE
+1,3,Jimmy Carr,Lee Mack,David Mitchell,Eamonn Holmes,Dara O Brien,TRUE,TRUE,TRUE,TRUE,TRUE
+1,3,Dara O Brien,David Mitchell,Lee Mack,Jimmy Carr,Ulrika Jonsson,FALSE,FALSE,FALSE,FALSE,FALSE
+1,3,Eamonn Holmes,David Mitchell,Lee Mack,Jimmy Carr,Ulrika Jonsson,TRUE,TRUE,FALSE,FALSE,FALSE
+1,4,Neil Morrissey,Lee Mack,David Mitchell,Myleene Klass,Jason Manford,FALSE,FALSE,FALSE,FALSE,FALSE
+1,4,Jason Manford,David Mitchell,Lee Mack,Leslie Ash,Neil Morrissey,TRUE,TRUE,TRUE,TRUE,FALSE
+1,4,Lee Mack,Lee Mack,David Mitchell,Myleene Klass,Jason Manford,FALSE,FALSE,FALSE,FALSE,TRUE
+1,4,Leslie Ash,Lee Mack,David Mitchell,Myleene Klass,Jason Manford,FALSE,FALSE,TRUE,FALSE,TRUE
+1,4,David Mitchell,David Mitchell,Lee Mack,Leslie Ash,Neil Morrissey,TRUE,TRUE,TRUE,TRUE,FALSE
+1,4,Leslie Ash,Lee Mack,David Mitchell,Myleene Klass,Jason Manford,TRUE,TRUE,TRUE,TRUE,FALSE
+1,5,Len Goodman,Lee Mack,David Mitchell,Russell Howard,Wendy Richard,FALSE,FALSE,FALSE,FALSE,TRUE
+1,5,David Mitchell,David Mitchell,Lee Mack,Len Goodman,Vic Reeves,TRUE,TRUE,TRUE,TRUE,TRUE
+1,5,Russell Howard,David Mitchell,Lee Mack,Len Goodman,Vic Reeves,TRUE,TRUE,TRUE,TRUE,FALSE
+1,5,Vic Reeves,Lee Mack,David Mitchell,Russell Howard,Wendy Richard,TRUE,TRUE,TRUE,TRUE,FALSE
+1,5,Wendy Richard,David Mitchell,Lee Mack,Len Goodman,Vic Reeves,TRUE,TRUE,TRUE,TRUE,TRUE
+1,5,Lee Mack,Lee Mack,David Mitchell,Russell Howard,Wendy Richard,FALSE,FALSE,FALSE,FALSE,TRUE
+1,5,David Mitchell,David Mitchell,Lee Mack,Len Goodman,Vic Reeves,TRUE,TRUE,FALSE,FALSE,FALSE
+1,5,Len Goodman,Lee Mack,David Mitchell,Russell Howard,Wendy Richard,FALSE,FALSE,FALSE,FALSE,TRUE
+1,5,Vic Reeves,Lee Mack,David Mitchell,Russell Howard,Wendy Richard,TRUE,TRUE,TRUE,TRUE,FALSE
+1,6,Tara Palmer-Tomkinson,Lee Mack,David Mitchell,Harry Enfield,Claudia Winkleman,FALSE,FALSE,FALSE,TRUE,TRUE
+1,6,Harry Enfield,David Mitchell,Lee Mack,Tara Palmer-Tomkinson,Dave Spikey,TRUE,TRUE,TRUE,TRUE,FALSE
+1,6,Harry Enfield,David Mitchell,Lee Mack,Tara Palmer-Tomkinson,Dave Spikey,TRUE,TRUE,TRUE,TRUE,FALSE
+1,6,Dave Spikey,Lee Mack,David Mitchell,Harry Enfield,Claudia Winkleman,TRUE,TRUE,TRUE,FALSE,FALSE
+1,6,Claudia Winkleman,David Mitchell,Lee Mack,Tara Palmer-Tomkinson,Dave Spikey,FALSE,FALSE,FALSE,FALSE,TRUE
+2,1,Gabby Logan,Lee Mack,David Mitchell,Rob Brydon,Krishnan Guru-Murthy,FALSE,FALSE,FALSE,FALSE,TRUE
+2,1,Rob Brydon,David Mitchell,Lee Mack,Gabby Logan,Robert Webb,TRUE,TRUE,TRUE,TRUE,FALSE
+2,1,Robert Webb,Lee Mack,David Mitchell,Rob Brydon,Krishnan Guru-Murthy,TRUE,TRUE,TRUE,TRUE,FALSE
+2,1,David Mitchell,David Mitchell,Lee Mack,Gabby Logan,Robert Webb,TRUE,TRUE,TRUE,TRUE,TRUE
+2,1,Krishnan Guru-Murthy,David Mitchell,Lee Mack,Gabby Logan,Robert Webb,FALSE,FALSE,FALSE,FALSE,TRUE
+2,1,Rob Brydon,David Mitchell,Lee Mack,Gabby Logan,Robert Webb,FALSE,FALSE,FALSE,FALSE,TRUE
+2,1,Robert Wb,Lee Mack,David Mitchell,Rob Brydon,Krishnan Guru-Murthy,TRUE,TRUE,TRUE,TRUE,TRUE
+2,2,Trisha Goddard,David Mitchell,Lee Mack,Frankie Boyle,Ben Shephard,TRUE,TRUE,TRUE,TRUE,FALSE
+2,2,Ben Shephard,Lee Mack,David Mitchell,Trisha Goddard,Rich Hall,TRUE,TRUE,FALSE,TRUE,FALSE
+2,2,Frankie Boyle,Lee Mack,David Mitchell,Trisha Goddard,Rich Hall,TRUE,TRUE,TRUE,TRUE,TRUE
+2,2,David Mitchell,David Mitchell,Lee Mack,Frankie Boyle,Ben Shephard,TRUE,TRUE,FALSE,FALSE,TRUE
+2,2,Frankie Boyle,Lee Mack,David Mitchell,Trisha Goddard,Rich Hall,TRUE,TRUE,TRUE,TRUE,FALSE
+2,2,Lee Mack,Lee Mack,David Mitchell,Trisha Goddard,Rich Hall,TRUE,TRUE,TRUE,TRUE,FALSE
+2,3,Maureen Lipman,David Mitchell,Lee Mack,Jimmy Carr,Richard Wilson,TRUE,TRUE,TRUE,TRUE,FALSE
+2,3,Jimmy Carr,Lee Mack,David Mitchell,David Baddiel,Maureen Lipman,TRUE,FALSE,TRUE,TRUE,FALSE
+2,3,David Baddiel,David Mitchell,Lee Mack,Jimmy Carr,Richard Wilson,FALSE,FALSE,TRUE,TRUE,TRUE
+2,3,David Mitchell,David Mitchell,Lee Mack,Jimmy Carr,Richard Wilson,TRUE,TRUE,FALSE,TRUE,FALSE
+2,3,Lee Mack,Lee Mack,David Mitchell,David Baddiel,Maureen Lipman,FALSE,FALSE,FALSE,TRUE,TRUE
+2,3,David Baddiel,David Mitchell,Lee Mack,Jimmy Carr,Richard Wilson,TRUE,TRUE,FALSE,TRUE,FALSE
+2,4,Michael Aspel,David Mitchell,Lee Mack,Jason Manford,Davina McCall,FALSE,FALSE,FALSE,FALSE,TRUE
+2,4,Davina McCall,Lee Mack,David Mitchell,Michael Aspen,Dara O Brien,TRUE,TRUE,TRUE,TRUE,FALSE
+2,4,Dara O Brien,David Mitchell,Lee Mack,Jason Manford,Davina McCall,TRUE,TRUE,FALSE,FALSE,FALSE
+2,4,David Mitchell,David Mitchell,Lee Mack,Jason Manford,Davina McCall,TRUE,TRUE,TRUE,TRUE,TRUE
+2,4,Davina McCall,Lee Mack,David Mitchell,Michael Aspen,Dara O Brien,TRUE,TRUE,TRUE,TRUE,FALSE
+2,4,Jason Manford,Lee Mack,David Mitchell,Michael Aspen,Dara O Brien,TRUE,TRUE,TRUE,TRUE,FALSE
+2,4,Michael Aspel,David Mitchell,Lee Mack,Jason Manford,Davina McCall,TRUE,TRUE,TRUE,TRUE,TRUE
+2,5,Eamonn Holmes,Lee Mack,David Mitchell,Olivia Colman,Peter Serafinowicz,TRUE,TRUE,TRUE,TRUE,FALSE
+2,5,Peter Serafinowicz,David Mitchell,Lee Mack,Hugh Dennis,Eamonn Holmes,TRUE,TRUE,TRUE,TRUE,TRUE
+2,5,Hugh Dennis,Lee Mack,David Mitchell,Olivia Colman,Peter Serafinowicz,FALSE,FALSE,FALSE,FALSE,FALSE
+2,5,David Mitchell,David Mitchell,Lee Mack,Hugh Dennis,Eamonn Holmes,TRUE,TRUE,TRUE,FALSE,FALSE
+2,5,Olivia Colman,David Mitchell,Lee Mack,Hugh Dennis,Eamonn Holmes,TRUE,TRUE,FALSE,TRUE,TRUE
+2,5,Hugh Dennis,Lee Mack,David Mitchell,Olivia Colman,Peter Serafinowicz,FALSE,FALSE,FALSE,TRUE,FALSE
+2,6,Anton du Beke,David Mitchell,Lee Mack,Michael Buerk,Russell Howard,TRUE,TRUE,TRUE,TRUE,FALSE
+2,6,Russell Howard,Lee Mack,David Mitchell,Danny Baker,Anton du Beke,TRUE,TRUE,TRUE,TRUE,FALSE
+2,6,Michael Buerk,Lee Mack,David Mitchell,Danny Baker,Anton du Beke,FALSE,FALSE,FALSE,FALSE,TRUE
+2,6,Lee Mack,Lee Mack,David Mitchell,Danny Baker,Anton du Beke,TRUE,TRUE,TRUE,TRUE,FALSE
+2,6,Michael Buerk,Lee Mack,David Mitchell,Danny Baker,Anton du Beke,TRUE,TRUE,TRUE,FALSE,FALSE
+2,6,Anton du Beke,David Mitchell,Lee Mack,Michael Buerk,Russell Howard,TRUE,TRUE,TRUE,TRUE,TRUE
+2,6,Danny Baker,David Mitchell,Lee Mack,Michael Buerk,Russell Howard,TRUE,TRUE,TRUE,FALSE,FALSE
+2,6,Russell Howard,Lee Mack,David Mitchell,Danny Baker,Anton du Beke,TRUE,TRUE,TRUE,TRUE,FALSE
+2,7,Shane Richie,David Mitchell,Lee Mack,Rhys Thomas,Tara Palmer-Tomkinson,TRUE,TRUE,TRUE,TRUE,TRUE
+2,7,Rhys Thomas,Lee Mack,David Mitchell,Vic Reeves,Shane Richie,TRUE,TRUE,TRUE,TRUE,FALSE
+2,7,Vic Reeves,David Mitchell,Lee Mack,Rhys Thomas,Tara Palmer-Tomkinson,TRUE,TRUE,TRUE,TRUE,FALSE
+2,7,David Mitchell,David Mitchell,Lee Mack,Rhys Thomas,Tara Palmer-Tomkinson,FALSE,FALSE,FALSE,FALSE,TRUE
+2,7,Tara Palmer-Tomkinson,Lee Mack,David Mitchell,Vic Reeves,Shane Richie,TRUE,TRUE,TRUE,TRUE,TRUE
+2,7,Lee Mack,Lee Mack,David Mitchell,Vic Reeves,Shane Richie,TRUE,TRUE,TRUE,TRUE,FALSE
+2,7,Shane Richie,David Mitchell,Lee Mack,Rhys Thomas,Tara Palmer-Tomkinson,FALSE,FALSE,FALSE,FALSE,TRUE
+2,8,Phil Daniels,David Mitchell,Lee Mack,Graeme Garden,Lauren Laverne,TRUE,TRUE,TRUE,TRUE,FALSE
+2,8,Graeme Garden,Lee Mack,David Mitchell,Michael McIntyre,Phil Daniels,TRUE,TRUE,FALSE,TRUE,FALSE
+2,8,Michael McIntyre,David Mitchell,Lee Mack,Graeme Garden,Lauren Laverne,FALSE,FALSE,FALSE,FALSE,TRUE
+2,8,Lee Mack,Lee Mack,David Mitchell,Michael McIntyre,Phil Daniels,TRUE,TRUE,TRUE,TRUE,FALSE
+2,8,David Mitchell,David Mitchell,Lee Mack,Graeme Garden,Lauren Laverne,TRUE,FALSE,TRUE,TRUE,TRUE
+2,8,Lauren Laverne,Lee Mack,David Mitchell,Michael McIntyre,Phil Daniels,TRUE,TRUE,TRUE,TRUE,TRUE
+2,8,Phil Daniels,David Mitchell,Lee Mack,Graeme Garden,Lauren Laverne,FALSE,FALSE,FALSE,FALSE,FALSE
+2,8,Michael McIntyre,David Mitchell,Lee Mack,Graeme Garden,Lauren Laverne,FALSE,FALSE,FALSE,FALSE,TRUE
+3,1,Carol Vorderman,Lee Mack,David Mitchell,Jo Brand,Larry Lamb,FALSE,FALSE,FALSE,FALSE,TRUE
+3,1,Larry Lamb,David Mitchell,Lee Mack,Russell Howard,Carol Vorderman,TRUE,TRUE,TRUE,TRUE,FALSE
+3,1,Russell Howard,Lee Mack,David Mitchell,Jo Brand,Larry Lamb,TRUE,TRUE,TRUE,TRUE,TRUE
+3,1,David Mitchell,David Mitchell,Lee Mack,Russell Howard,Carol Vorderman,TRUE,TRUE,FALSE,TRUE,FALSE
+3,1,Lee Mack,Lee Mack,David Mitchell,Jo Brand,Larry Lamb,FALSE,TRUE,FALSE,FALSE,TRUE
+3,1,Jo Brand,David Mitchell,Lee Mack,Russell Howard,Carol Vorderman,FALSE,FALSE,FALSE,FALSE,FALSE
+3,2,Reginald D Hunter,Lee Mack,David Mitchell,Fern Britton,Stephen Mangan,TRUE,TRUE,TRUE,TRUE,FALSE
+3,2,Stephen Mangan,David Mitchell,Lee Mack,Reginald D Hunter,Ken Livingstone,FALSE,FALSE,TRUE,FALSE,TRUE
+3,2,Ken Livingstone,Lee Mack,David Mitchell,Fern Britton,Stephen Mangan,TRUE,TRUE,TRUE,TRUE,TRUE
+3,2,Lee Mack,Lee Mack,David Mitchell,Fern Britton,Stephen Mangan,TRUE,TRUE,TRUE,TRUE,FALSE
+3,2,David Mitchell,David Mitchell,Lee Mack,Reginald D Hunter,Ken Livingstone,TRUE,TRUE,TRUE,TRUE,TRUE
+3,2,Fern Britton,David Mitchell,Lee Mack,Reginald D Hunter,Ken Livingstone,FALSE,FALSE,FALSE,FALSE,TRUE
+3,2,Fern Britton,David Mitchell,Lee Mack,Reginald D Hunter,Ken Livingstone,TRUE,TRUE,TRUE,TRUE,FALSE
+3,3,Jimmy Carr,Lee Mack,David Mitchell,Marcus Brigstocke,Jamelia,TRUE,TRUE,TRUE,FALSE,FALSE
+3,3,Jamelia,David Mitchell,Lee Mack,Jimmy Carr,Terry Christian,FALSE,FALSE,FALSE,TRUE,TRUE
+3,3,Marcus Brigstocke,David Mitchell,Lee Mack,Jimmy Carr,Terry Christian,TRUE,TRUE,TRUE,TRUE,TRUE
+3,3,David Mitchell,David Mitchell,Lee Mack,Jimmy Carr,Terry Christian,TRUE,TRUE,FALSE,TRUE,FALSE
+3,3,Terry Christian,Lee Mack,David Mitchell,Marcus Brigstocke,Jamelia,TRUE,TRUE,TRUE,TRUE,FALSE
+3,3,Terry Christian,Lee Mack,David Mitchell,Marcus Brigstocke,Jamelia,TRUE,TRUE,TRUE,TRUE,FALSE
+3,4,Claudia Winkleman,David Mitchell,Lee Mack,Clive Anderson,Miranda Hart,FALSE,FALSE,FALSE,FALSE,TRUE
+3,4,Clive Anderson,Lee Mack,David Mitchell,Jason Manford,Claudia Winkleman,TRUE,TRUE,TRUE,TRUE,FALSE
+3,4,Miranda Hart,Lee Mack,David Mitchell,Jason Manford,Claudia Winkleman,FALSE,FALSE,FALSE,FALSE,FALSE
+3,4,David Mitchell,David Mitchell,Lee Mack,Clive Anderson,Miranda Hart,TRUE,TRUE,TRUE,TRUE,FALSE
+3,4,Jason Manford,David Mitchell,Lee Mack,Clive Anderson,Miranda Hart,TRUE,TRUE,FALSE,TRUE,TRUE
+3,4,Claudia Winkleman,David Mitchell,Lee Mack,Clive Anderson,Miranda Hart,FALSE,FALSE,FALSE,TRUE,FALSE
+3,5,Christine Bleakley,Lee Mack,David Mitchell,Kelvin MacKenzie,Jack Whitehall,TRUE,TRUE,TRUE,FALSE,FALSE
+3,5,Jack Whitehall,David Mitchell,Lee Mack,Christine Bleakley,Frankie Boyle,TRUE,TRUE,TRUE,TRUE,TRUE
+3,5,Frankie Boyle,Lee Mack,David Mitchell,Kelvin MacKenzie,Jack Whitehall,FALSE,FALSE,TRUE,FALSE,FALSE
+3,5,Lee Mack,Lee Mack,David Mitchell,Kelvin MacKenzie,Jack Whitehall,TRUE,TRUE,TRUE,TRUE,FALSE
+3,5,Christine Bleakley,Lee Mack,David Mitchell,Kelvin MacKenzie,Jack Whitehall,FALSE,FALSE,FALSE,FALSE,TRUE
+3,6,Janet Street-Porter,Lee Mack,David Mitchell,Dave Gorman,Davina McCall,TRUE,FALSE,TRUE,TRUE,TRUE
+3,6,Davina McCall,David Mitchell,Lee Mack,Omid Djalili,Janet Street-Porter,FALSE,TRUE,FALSE,FALSE,TRUE
+3,6,Omid Djalili,Lee Mack,David Mitchell,Dave Gorman,Davina McCall,TRUE,TRUE,FALSE,FALSE,FALSE
+3,6,David Mitchell,David Mitchell,Lee Mack,Omid Djalili,Janet Street-Porter,FALSE,FALSE,FALSE,FALSE,TRUE
+3,6,Lee Mack,Lee Mack,David Mitchell,Dave Gorman,Davina McCall,TRUE,TRUE,TRUE,TRUE,FALSE
+3,7,Chris Hoy,David Mitchell,Lee Mack,Gabby Logan,Danny Wallace,TRUE,TRUE,TRUE,TRUE,FALSE
+3,7,Gabby Logan,Lee Mack,David Mitchell,Ronni Ancona,Chris Hoy,FALSE,FALSE,TRUE,FALSE,TRUE
+3,7,Danny Wallace,Lee Mack,David Mitchell,Ronni Ancona,Chris Hoy,TRUE,TRUE,TRUE,TRUE,FALSE
+3,7,Lee Mack,Lee Mack,David Mitchell,Ronni Ancona,Chris Hoy,TRUE,TRUE,TRUE,TRUE,FALSE
+3,7,David Mitchell,David Mitchell,Lee Mack,Gabby Logan,Danny Wallace,FALSE,FALSE,FALSE,FALSE,TRUE
+3,7,Gabby Logan,Lee Mack,David Mitchell,Ronni Ancona,Chris Hoy,TRUE,TRUE,TRUE,TRUE,FALSE
+3,8,Michael Ball,Lee Mack,David Mitchell,Reece Shearsmith,Trinny Woodall,FALSE,FALSE,FALSE,TRUE,TRUE
+3,8,Trinny Woodall,David Mitchell,Lee Mack,Michael Ball,Charlie Brooker,TRUE,TRUE,TRUE,TRUE,FALSE
+3,8,Reece Shearsmith,David Mitchell,Lee Mack,Michael Ball,Charlie Brooker,TRUE,TRUE,TRUE,TRUE,FALSE
+3,8,Charlie Brooker,Lee Mack,David Mitchell,Reece Shearsmith,Trinny Woodall,TRUE,TRUE,TRUE,FALSE,TRUE
+3,8,David Mitchell,David Mitchell,Lee Mack,Michael Ball,Charlie Brooker,TRUE,FALSE,TRUE,TRUE,FALSE
+3,8,Lee Mack,Lee Mack,David Mitchell,Reece Shearsmith,Trinny Woodall,FALSE,FALSE,FALSE,FALSE,TRUE
+4,1,Sanjeev Bhaskar,Lee Mack,David Mitchell,Fern Britton,Richard E Grant,FALSE,FALSE,TRUE,FALSE,TRUE
+4,1,Fern Britton,David Mitchell,Lee Mack,Sanjeev Bhaskar,Martin Clunes,FALSE,FALSE,TRUE,TRUE,TRUE
+4,1,Martin Clunes,Lee Mack,David Mitchell,Fern Britton,Richard E Grant,FALSE,FALSE,FALSE,FALSE,FALSE
+4,1,Lee Mack,Lee Mack,David Mitchell,Fern Britton,Richard E Grant,FALSE,FALSE,FALSE,FALSE,TRUE
+4,1,David Mitchell,David Mitchell,Lee Mack,Sanjeev Bhaskar,Martin Clunes,TRUE,TRUE,TRUE,TRUE,FALSE
+4,1,Martin Clunes,Lee Mack,David Mitchell,Fern Britton,Richard E Grant,TRUE,TRUE,FALSE,TRUE,TRUE
+4,2,Ruth Jones,David Mitchell,Lee Mack,Jack Dee,Peter Serafinowicz,FALSE,FALSE,FALSE,FALSE,FALSE
+4,2,Jack Dee,Lee Mack,David Mitchell,Ruth Jones,Jason Manford,TRUE,TRUE,TRUE,FALSE,TRUE
+4,2,Jason Manford,David Mitchell,Lee Mack,Jack Dee,Peter Serafinowicz,TRUE,TRUE,TRUE,TRUE,TRUE
+4,2,Lee Mack,Lee Mack,David Mitchell,Ruth Jones,Jason Manford,TRUE,TRUE,TRUE,TRUE,FALSE
+4,2,Peter Serafinowicz,Lee Mack,David Mitchell,Ruth Jones,Jason Manford,TRUE,TRUE,TRUE,TRUE,FALSE
+4,2,Jack Dee,Lee Mack,David Mitchell,Ruth Jones,Jason Manford,TRUE,TRUE,TRUE,TRUE,FALSE
+4,3,Stephen Mangan,David Mitchell,Lee Mack,Kevin Bridges,Brian Cox,FALSE,FALSE,FALSE,FALSE,FALSE
+4,3,Keeley Hawes,David Mitchell,Lee Mack,Kevin Bridges,Brian Cox,TRUE,TRUE,TRUE,TRUE,TRUE
+4,3,Kevin Bridges,Lee Mack,David Mitchell,Keeley Hawes,Stephen Mangan,FALSE,FALSE,FALSE,FALSE,TRUE
+4,3,David Mitchell,David Mitchell,Lee Mack,Kevin Bridges,Brian Cox,FALSE,FALSE,FALSE,FALSE,TRUE
+4,3,Lee Mack,Lee Mack,David Mitchell,Keeley Hawes,Stephen Mangan,TRUE,TRUE,TRUE,TRUE,FALSE
+4,3,Brian Cox,Lee Mack,David Mitchell,Keeley Hawes,Stephen Mangan,TRUE,TRUE,TRUE,FALSE,FALSE
+4,4,Hugh Dennis,Lee Mack,David Mitchell,Ben Fogle,Craig Revel Horwood,TRUE,TRUE,TRUE,TRUE,FALSE
+4,4,Ben Fogle,David Mitchell,Lee Mack,Hugh Dennis,Kate Silverton,FALSE,FALSE,FALSE,FALSE,TRUE
+4,4,Kate Silverton,Lee Mack,David Mitchell,Ben Fogle,Craig Revel Horwood,FALSE,FALSE,FALSE,FALSE,FALSE
+4,4,Lee Mack,Lee Mack,David Mitchell,Ben Fogle,Craig Revel Horwood,FALSE,FALSE,FALSE,FALSE,TRUE
+4,4,David Mitchell,David Mitchell,Lee Mack,Hugh Dennis,Kate Silverton,TRUE,TRUE,TRUE,TRUE,FALSE
+4,5,Julian Clary,Lee Mack,David Mitchell,Ronnie Corbett,Sarah Millican,FALSE,FALSE,TRUE,FALSE,FALSE
+4,5,Ronnie Corbett,David Mitchell,Lee Mack,Julian Clary,Holly Walsh,TRUE,TRUE,TRUE,TRUE,TRUE
+4,5,Sarah Millican,David Mitchell,Lee Mack,Julian Clary,Holly Walsh,TRUE,TRUE,TRUE,TRUE,TRUE
+4,5,David Mitchell,David Mitchell,Lee Mack,Julian Clary,Holly Walsh,TRUE,TRUE,FALSE,TRUE,FALSE
+4,5,Ronnie Corbett,David Mitchell,Lee Mack,Julian Clary,Holly Walsh,FALSE,FALSE,FALSE,FALSE,FALSE
+4,6,Hugh Fearnley-Whittingstall,Lee Mack,David Mitchell,Rhod Gilbert,Miranda Hart,TRUE,TRUE,TRUE,TRUE,FALSE
+4,6,Miranda Hart,David Mitchell,Lee Mack,Hugh Fearnley-Whittingstall,Rufus Hound,FALSE,FALSE,FALSE,TRUE,FALSE
+4,6,Rhod Gilbert,David Mitchell,Lee Mack,Hugh Fearnley-Whittingstall,Rufus Hound,TRUE,TRUE,TRUE,TRUE,TRUE
+4,6,David Mitchell,David Mitchell,Lee Mack,Hugh Fearnley-Whittingstall,Rufus Hound,TRUE,TRUE,FALSE,TRUE,FALSE
+4,6,Lee Mack,Lee Mack,David Mitchell,Rhod Gilbert,Miranda Hart,FALSE,FALSE,FALSE,TRUE,TRUE
+4,7,Patrick Kielty,David Mitchell,Lee Mack,Deborah Meaden,Mark Watson,FALSE,FALSE,FALSE,FALSE,TRUE
+4,7,Deborah Meaden,Lee Mack,David Mitchell,Bernard Cribbins,Patrick Kielty,FALSE,FALSE,FALSE,FALSE,FALSE
+4,7,Mark Watson,Lee Mack,David Mitchell,Bernard Cribbins,Patrick Kielty,TRUE,TRUE,TRUE,TRUE,TRUE
+4,7,Bernard Cribbins,David Mitchell,Lee Mack,Deborah Meaden,Mark Watson,TRUE,TRUE,TRUE,TRUE,FALSE
+4,7,David Mitchell,David Mitchell,Lee Mack,Deborah Meaden,Mark Watson,TRUE,TRUE,TRUE,TRUE,TRUE
+4,7,Lee Mack,Lee Mack,David Mitchell,Bernard Cribbins,Patrick Kielty,FALSE,FALSE,FALSE,FALSE,FALSE
+4,8,Patsy Palmer,Lee Mack,David Mitchell,John Bishop,Joanna Page,FALSE,FALSE,FALSE,FALSE,FALSE
+4,8,Joanna Page,David Mitchell,Lee Mack,Chris Addison,Patsy Palmer,TRUE,TRUE,FALSE,TRUE,TRUE
+4,8,John Bishop,David Mitchell,Lee Mack,Chris Addison,Patsy Palmer,FALSE,FALSE,FALSE,FALSE,TRUE
+4,8,David Mitchell,David Mitchell,Lee Mack,Chris Addison,Patsy Palmer,TRUE,TRUE,TRUE,TRUE,TRUE
+4,8,Lee Mack,Lee Mack,David Mitchell,John Bishop,Joanna Page,TRUE,TRUE,TRUE,TRUE,FALSE
+4,8,John Bishop,David Mitchell,Lee Mack,Chris Addison,Patsy Palmer,TRUE,TRUE,TRUE,TRUE,FALSE
+5,1,Nick Hewer,Lee Mack,David Mitchell,Rebecca Front,Jack Whitehall,TRUE,TRUE,TRUE,TRUE,FALSE
+5,1,Jack Whitehall,David Mitchell,Lee Mack,Miranda Hart,Nick Hewer,TRUE,TRUE,TRUE,TRUE,TRUE
+5,1,David Mitchell,David Mitchell,Lee Mack,Miranda Hart,Nick Hewer,TRUE,TRUE,TRUE,TRUE,FALSE
+5,1,Miranda Hart,Lee Mack,David Mitchell,Rebecca Front,Jack Whitehall,TRUE,TRUE,TRUE,TRUE,FALSE
+5,1,Rebecca Front,David Mitchell,Lee Mack,Miranda Hart,Nick Hewer,TRUE,TRUE,TRUE,TRUE,TRUE
+5,1,Nick Hewer,Lee Mack,David Mitchell,Rebecca Front,Jack Whitehall,TRUE,TRUE,TRUE,TRUE,TRUE
+5,2,Sir Terry Wogan,David Mitchell,Lee Mack,Kevin Bridges,Katy Wix,FALSE,FALSE,FALSE,FALSE,TRUE
+5,2,Kevin Bridges,Lee Mack,David Mitchell,Sir Terry Wogan,Robert Webb,TRUE,TRUE,TRUE,TRUE,FALSE
+5,2,Robert Webb,David Mitchell,Lee Mack,Kevin Bridges,Katy Wix,TRUE,TRUE,TRUE,TRUE,TRUE
+5,2,David Mitchell,David Mitchell,Lee Mack,Kevin Bridges,Katy Wix,FALSE,FALSE,FALSE,TRUE,TRUE
+5,2,Lee Mack,Lee Mack,David Mitchell,Sir Terry Wogan,Robert Webb,TRUE,TRUE,TRUE,TRUE,FALSE
+5,2,Sir Terry Wogan,David Mitchell,Lee Mack,Kevin Bridges,Katy Wix,TRUE,TRUE,TRUE,TRUE,FALSE
+5,3,Katherine Parkinson,David Mitchell,Lee Mack,Louie Spence,Bill Turnbull,FALSE,TRUE,FALSE,FALSE,TRUE
+5,3,David O'Doherty,David Mitchell,Lee Mack,Louie Spence,Bill Turnbull,TRUE,TRUE,TRUE,TRUE,FALSE
+5,3,Louie Spence,Lee Mack,David Mitchell,David O'Doherty,Katherine Parkinson,TRUE,TRUE,TRUE,TRUE,FALSE
+5,3,Lee Mack,Lee Mack,David Mitchell,David O'Doherty,Katherine Parkinson,TRUE,TRUE,TRUE,TRUE,FALSE
+5,3,Bill Turnbull,Lee Mack,David Mitchell,David O'Doherty,Katherine Parkinson,FALSE,FALSE,FALSE,FALSE,TRUE
+5,3,Katherine Parkinson,David Mitchell,Lee Mack,Louie Spence,Bill Turnbull,FALSE,FALSE,FALSE,FALSE,FALSE
+5,3,Bill Turnbull,Lee Mack,David Mitchell,David O'Doherty,Katherine Parkinson,TRUE,TRUE,FALSE,TRUE,FALSE
+5,4,Gregg Wallace,David Mitchell,Lee Mack,Nina Wadia,Charlie Brooker,TRUE,TRUE,TRUE,TRUE,FALSE
+5,4,Charlie Brooker,Lee Mack,David Mitchell,Gregg Wallace,Nigel Havers,FALSE,TRUE,FALSE,FALSE,TRUE
+5,4,Nigel Havers,David Mitchell,Lee Mack,Nina Wadia,Charlie Brooker,FALSE,FALSE,TRUE,FALSE,TRUE
+5,4,Lee Mack,Lee Mack,David Mitchell,Gregg Wallace,Nigel Havers,TRUE,TRUE,TRUE,TRUE,FALSE
+5,4,David Mitchell,David Mitchell,Lee Mack,Nina Wadia,Charlie Brooker,TRUE,TRUE,FALSE,TRUE,TRUE
+5,4,Gregg Wallace,David Mitchell,Lee Mack,Nina Wadia,Charlie Brooker,FALSE,FALSE,FALSE,FALSE,TRUE
+5,5,Greg Davies,David Mitchell,Lee Mack,Phil Tufnell,Marcus Brigstocke,FALSE,FALSE,FALSE,FALSE,FALSE
+5,5,Phil Tufnell,Lee Mack,David Mitchell,Greg Davies,Konnie Huq,FALSE,TRUE,FALSE,FALSE,TRUE
+5,5,Lee Mack,Lee Mack,David Mitchell,Greg Davies,Konnie Huq,TRUE,TRUE,TRUE,TRUE,TRUE
+5,5,David Mitchell,David Mitchell,Lee Mack,Phil Tufnell,Marcus Brigstocke,TRUE,TRUE,TRUE,TRUE,FALSE
+5,5,Greg Davies,David Mitchell,Lee Mack,Phil Tufnell,Marcus Brigstocke,FALSE,FALSE,FALSE,FALSE,TRUE
+5,6,Sarah Millican,Lee Mack,David Mitchell,Bill Oddie,Frank Skinner,TRUE,TRUE,TRUE,FALSE,TRUE
+5,6,Frank Skinner,David Mitchell,Lee Mack,Sarah Millican,Jon Richardson,TRUE,TRUE,FALSE,TRUE,FALSE
+5,6,Bill Oddie,David Mitchell,Lee Mack,Sarah Millican,Jon Richardson,TRUE,TRUE,FALSE,TRUE,TRUE
+5,6,Lee Mack,Lee Mack,David Mitchell,Bill Oddie,Frank Skinner,FALSE,FALSE,FALSE,FALSE,TRUE
+5,6,Jon Richardson,Lee Mack,David Mitchell,Bill Oddie,Frank Skinner,FALSE,FALSE,FALSE,FALSE,TRUE
+5,6,Sarah Millican,Lee Mack,David Mitchell,Bill Oddie,Frank Skinner,FALSE,FALSE,FALSE,FALSE,FALSE
+5,7,Rhod Gilbert,Lee Mack,David Mitchell,Mackenzie Crook,Chris Packham,TRUE,TRUE,TRUE,TRUE,FALSE
+5,7,Mackenzie Crook,David Mitchell,Lee Mack,Victoria Coren,Rhod Gilbert,TRUE,TRUE,TRUE,TRUE,TRUE
+5,7,Lee Mack,Lee Mack,David Mitchell,Mackenzie Crook,Chris Packham,TRUE,FALSE,TRUE,TRUE,TRUE
+5,7,Victoria Coren,Lee Mack,David Mitchell,Mackenzie Crook,Chris Packham,FALSE,FALSE,FALSE,FALSE,FALSE
+5,7,Rhod Gilbert,Lee Mack,David Mitchell,Mackenzie Crook,Chris Packham,FALSE,FALSE,FALSE,FALSE,TRUE
+5,7,Mackenzie Crook,David Mitchell,Lee Mack,Victoria Coren,Rhod Gilbert,FALSE,FALSE,TRUE,FALSE,FALSE
+5,8,Dara O Brien,David Mitchell,Lee Mack,Barry Cryer,Sue Perkins,TRUE,TRUE,TRUE,TRUE,FALSE
+5,8,Lorraine Kelly,David Mitchell,Lee Mack,Barry Cryer,Sue Perkins,TRUE,TRUE,TRUE,TRUE,TRUE
+5,8,Barry Cryer,Lee Mack,David Mitchell,Dara O Brien,Lorraine Kelly,TRUE,TRUE,TRUE,TRUE,FALSE
+5,8,David Mitchell,David Mitchell,Lee Mack,Barry Cryer,Sue Perkins,TRUE,TRUE,TRUE,TRUE,FALSE
+5,8,Lee Mack,Lee Mack,David Mitchell,Dara O Brien,Lorraine Kelly,FALSE,FALSE,FALSE,FALSE,TRUE
+6,1,Alex Jones,Lee Mack,David Mitchell,Chris Tarrant,Mel Giedroyc,TRUE,TRUE,FALSE,FALSE,TRUE
+6,1,Alexander Armstrong,Lee Mack,David Mitchell,Chris Tarrant,Mel Giedroyc,TRUE,TRUE,FALSE,TRUE,FALSE
+6,1,Lee Mack,Lee Mack,David Mitchell,Chris Tarrant,Mel Giedroyc,TRUE,TRUE,TRUE,TRUE,FALSE
+6,1,Alex Jones,Lee Mack,David Mitchell,Chris Tarrant,Mel Giedroyc,FALSE,FALSE,FALSE,FALSE,FALSE
+6,1,Alexander Armstrong,Lee Mack,David Mitchell,Chris Tarrant,Mel Giedroyc,TRUE,TRUE,TRUE,TRUE,FALSE
+6,1,Chris Tarrant,David Mitchell,Lee Mack,Alex Jones,Alexander Armstrong,TRUE,TRUE,TRUE,TRUE,TRUE
+6,2,Richard Madeley,David Mitchell,Lee Mack,Kate Humble,Miles Jupp,TRUE,TRUE,FALSE,TRUE,TRUE
+6,2,Miles Jupp,Lee Mack,David Mitchell,Sanjeev Bhaskar,Richard Madeley,FALSE,FALSE,FALSE,TRUE,TRUE
+6,2,Kate Humble,Lee Mack,David Mitchell,Sanjeev Bhaskar,Richard Madeley,TRUE,TRUE,TRUE,TRUE,FALSE
+6,2,David Mitchell,David Mitchell,Lee Mack,Kate Humble,Miles Jupp,FALSE,FALSE,TRUE,FALSE,TRUE
+6,2,Richard Madeley,David Mitchell,Lee Mack,Kate Humble,Miles Jupp,TRUE,TRUE,TRUE,FALSE,FALSE
+6,3,Dale Winton,David Mitchell,Lee Mack,Clare Balding,Miranda Hart,FALSE,FALSE,FALSE,FALSE,FALSE
+6,3,Richard Bacon,David Mitchell,Lee Mack,Clare Balding,Miranda Hart,TRUE,TRUE,FALSE,TRUE,TRUE
+6,3,Lee Mack,Lee Mack,David Mitchell,Richard Bacon,Dale Winton,FALSE,FALSE,FALSE,FALSE,TRUE
+6,3,Miranda Hart,Lee Mack,David Mitchell,Richard Bacon,Dale Winton,FALSE,FALSE,FALSE,FALSE,TRUE
+6,3,Clare Balding,Lee Mack,David Mitchell,Richard Bacon,Dale Winton,TRUE,TRUE,TRUE,FALSE,FALSE
+6,4,Des O'Connor,Lee Mack,David Mitchell,Rhod Gilbert,Sally Phillips,TRUE,TRUE,TRUE,TRUE,TRUE
+6,4,Rhod Gilbert,David Mitchell,Lee Mack,Des O'Connor,Tess Daly,FALSE,FALSE,FALSE,FALSE,FALSE
+6,4,Lee Mack,Lee Mack,David Mitchell,Rhod Gilbert,Sally Phillips,TRUE,TRUE,TRUE,TRUE,FALSE
+6,4,Sally Phillips,David Mitchell,Lee Mack,Des O'Connor,Tess Daly,FALSE,FALSE,TRUE,FALSE,FALSE
+6,4,David Mitchell,David Mitchell,Lee Mack,Des O'Connor,Tess Daly,TRUE,TRUE,FALSE,TRUE,TRUE
+6,5,Gabby Logan,David Mitchell,Lee Mack,Diane Parish,Dr. Christian Jessen,TRUE,TRUE,FALSE,TRUE,TRUE
+6,5,Andy Hamilton,David Mitchell,Lee Mack,Diane Parish,Dr. Christian Jessen,FALSE,FALSE,FALSE,FALSE,TRUE
+6,5,Diane Parish,Lee Mack,David Mitchell,Gabby Logan,Andy Hamilton,TRUE,TRUE,FALSE,TRUE,FALSE
+6,5,Lee Mack,Lee Mack,David Mitchell,Gabby Logan,Andy Hamilton,TRUE,TRUE,TRUE,TRUE,TRUE
+6,5,Dr. Christian Jessen,Lee Mack,David Mitchell,Gabby Logan,Andy Hamilton,FALSE,FALSE,FALSE,FALSE,TRUE
+6,5,Dr. Christian Jessen,Lee Mack,David Mitchell,Gabby Logan,Andy Hamilton,TRUE,TRUE,TRUE,TRUE,TRUE
+6,4,David Mitchell,David Mitchell,Lee Mack,Des O'Connor,Tess Daly,TRUE,TRUE,TRUE,TRUE,FALSE
+6,6,Greg Davies,David Mitchell,Lee Mack,Bob Mortimer,Patsy Kensit,TRUE,TRUE,TRUE,TRUE,TRUE
+6,6,Richard Osman,David Mitchell,Lee Mack,Bob Mortimer,Patsy Kensit,TRUE,TRUE,TRUE,FALSE,TRUE
+6,6,Patsy Kensit,Lee Mack,David Mitchell,Richard Osman,Greg Davies,FALSE,FALSE,FALSE,TRUE,FALSE
+6,6,Bob Mortimer,Lee Mack,David Mitchell,Richard Osman,Greg Davies,TRUE,TRUE,TRUE,TRUE,TRUE
+6,6,Bob Mortimer,Lee Mack,David Mitchell,Richard Osman,Greg Davies,TRUE,TRUE,TRUE,TRUE,FALSE
+6,6,Lee Mack,Lee Mack,David Mitchell,Richard Osman,Greg Davies,TRUE,TRUE,FALSE,TRUE,TRUE
+6,7,Sarah Millican,David Mitchell,Lee Mack,Josie Lawrence,Bradley Walsh,TRUE,TRUE,TRUE,FALSE,TRUE
+6,7,Huw Edwards,David Mitchell,Lee Mack,Josie Lawrence,Bradley Walsh,FALSE,FALSE,FALSE,FALSE,TRUE
+6,7,Bradley Walsh,Lee Mack,David Mitchell,Huw Edwards,Sarah Millican,FALSE,FALSE,FALSE,FALSE,FALSE
+6,7,Lee Mack,Lee Mack,David Mitchell,Huw Edwards,Sarah Millican,TRUE,TRUE,TRUE,TRUE,FALSE
+6,8,Jim Carter,Lee Mack,David Mitchell,Emily Maitlis,Jack Whitehall,TRUE,TRUE,TRUE,TRUE,FALSE
+6,8,Jack Whitehall,David Mitchell,Lee Mack,Jim Carter,Armando Iannucci,TRUE,TRUE,TRUE,TRUE,TRUE
+6,8,David Mitchell,David Mitchell,Lee Mack,Jim Carter,Armando Iannucci,TRUE,TRUE,FALSE,TRUE,FALSE
+6,8,Armando Iannucci,Lee Mack,David Mitchell,Emily Maitlis,Jack Whitehall,FALSE,FALSE,FALSE,FALSE,FALSE
+6,8,Jim Carter,Lee Mack,David Mitchell,Emily Maitlis,Jack Whitehall,FALSE,FALSE,FALSE,FALSE,FALSE
+7,1,Dara O Brien,David Mitchell,Lee Mack,Denise van Outen,Rhod Gilbert,TRUE,TRUE,TRUE,TRUE,TRUE
+7,1,Denise van Outen,Lee Mack,David Mitchell,Dara O Brien,Vernon Kay,FALSE,FALSE,FALSE,FALSE,TRUE
+7,1,David Mitchell,David Mitchell,Lee Mack,Denise van Outen,Rhod Gilbert,TRUE,TRUE,TRUE,TRUE,TRUE
+7,1,Rhod Gilbert,Lee Mack,David Mitchell,Dara O Brien,Vernon Kay,FALSE,FALSE,FALSE,FALSE,TRUE
+7,2,Stephen Mangan,David Mitchell,Lee Mack,Gok Wan,Charles Dance,FALSE,FALSE,FALSE,FALSE,FALSE
+7,2,Charles Dance,Lee Mack,David Mitchell,Isy Suttie,Stephen Mangan,TRUE,TRUE,TRUE,TRUE,TRUE
+7,2,Gok Wan,Lee Mack,David Mitchell,Isy Suttie,Stephen Mangan,TRUE,TRUE,TRUE,TRUE,TRUE
+7,2,Isy Suttie,David Mitchell,Lee Mack,Gok Wan,Charles Dance,TRUE,TRUE,TRUE,TRUE,FALSE
+7,2,Lee Mack,Lee Mack,David Mitchell,Isy Suttie,Stephen Mangan,TRUE,TRUE,FALSE,TRUE,FALSE
+7,2,Charles Dance,Lee Mack,David Mitchell,Isy Suttie,Stephen Mangan,TRUE,TRUE,TRUE,TRUE,FALSE
+7,2,Gok Wan,Lee Mack,David Mitchell,Isy Suttie,Stephen Mangan,TRUE,TRUE,FALSE,TRUE,FALSE
+7,3,Warwick Davis,Lee Mack,David Mitchell,Jason Manford,Joan Bakewell,TRUE,TRUE,TRUE,TRUE,TRUE
+7,3,Jason Manford,David Mitchell,Lee Mack,Warwick Davis,Paul Hollywood,TRUE,TRUE,TRUE,FALSE,TRUE
+7,3,Joan Bakewell,David Mitchell,Lee Mack,Warwick Davis,Paul Hollywood,TRUE,TRUE,TRUE,TRUE,FALSE
+7,3,Lee Mack,Lee Mack,David Mitchell,Jason Manford,Joan Bakewell,TRUE,TRUE,TRUE,TRUE,FALSE
+7,3,Joan Bakewell,David Mitchell,Lee Mack,Warwick Davis,Paul Hollywood,TRUE,TRUE,FALSE,TRUE,FALSE
+7,4,Josh Widdicombe,Lee Mack,David Mitchell,Mel Giedroyc,Dermot O'Leary,FALSE,FALSE,FALSE,FALSE,TRUE
+7,4,Mel Giedroyc,David Mitchell,Lee Mack,Matt Dawson,Josh Widdicombe,FALSE,TRUE,FALSE,FALSE,TRUE
+7,4,Lee Mack,Lee Mack,David Mitchell,Mel Giedroyc,Dermot O'Leary,TRUE,TRUE,TRUE,TRUE,FALSE
+7,4,Dermot O'Leary,David Mitchell,Lee Mack,Matt Dawson,Josh Widdicombe,TRUE,TRUE,FALSE,TRUE,TRUE
+7,5,Richard Osman,David Mitchell,Lee Mack,Carol Kirkwood,David O'Doherty,TRUE,TRUE,FALSE,TRUE,FALSE
+7,5,Carol Kirkwood,Lee Mack,David Mitchell,Richard Osman,Susan Calman,TRUE,TRUE,TRUE,TRUE,TRUE
+7,5,Susan Calman,David Mitchell,Lee Mack,Carol Kirkwood,David O'Doherty,TRUE,TRUE,TRUE,FALSE,TRUE
+7,5,David Mitchell,David Mitchell,Lee Mack,Carol Kirkwood,David O'Doherty,TRUE,TRUE,TRUE,TRUE,TRUE
+7,5,David O'Doherty,Lee Mack,David Mitchell,Richard Osman,Susan Calman,TRUE,TRUE,TRUE,FALSE,FALSE
+7,5,David O'Doherty,Lee Mack,David Mitchell,Richard Osman,Susan Calman,FALSE,FALSE,TRUE,FALSE,TRUE
+7,5,Richard Osman,David Mitchell,Lee Mack,Carol Kirkwood,David O'Doherty,TRUE,TRUE,TRUE,TRUE,FALSE
+7,6,Bob Mortimer,Lee Mack,David Mitchell,Sarah Millican,Jon Richardson,TRUE,TRUE,TRUE,FALSE,TRUE
+7,6,Jon Richardson,David Mitchell,Lee Mack,David Harewood,Bob Mortimer,FALSE,FALSE,FALSE,FALSE,TRUE
+7,6,Sarah Millican,David Mitchell,Lee Mack,David Harewood,Bob Mortimer,TRUE,TRUE,FALSE,TRUE,FALSE
+7,6,David Harewood,Lee Mack,David Mitchell,Sarah Millican,Jon Richardson,FALSE,FALSE,FALSE,FALSE,TRUE
+7,6,David Mitchell,David Mitchell,Lee Mack,David Harewood,Bob Mortimer,TRUE,TRUE,TRUE,TRUE,FALSE
+7,6,Jon Richardson,David Mitchell,Lee Mack,David Harewood,Bob Mortimer,TRUE,TRUE,TRUE,TRUE,TRUE
+7,7,Kirsty Young,David Mitchell,Lee Mack,Joanna Scanlan,Henning Wehn,FALSE,FALSE,TRUE,FALSE,TRUE
+7,7,Henning Wehn,Lee Mack,David Mitchell,Greg Rutherford,Kirsty Young,TRUE,TRUE,TRUE,TRUE,TRUE
+7,7,Lee Mack,Lee Mack,David Mitchell,Greg Rutherford,Kirsty Young,TRUE,TRUE,FALSE,TRUE,TRUE
+7,7,Joanna Scanlan,Lee Mack,David Mitchell,Greg Rutherford,Kirsty Young,FALSE,FALSE,FALSE,FALSE,FALSE
+7,8,Jimmy Carr,David Mitchell,Lee Mack,Susanna Reid,Dave Myers,FALSE,FALSE,FALSE,FALSE,TRUE
+7,8,Dave Myers,Lee Mack,David Mitchell,Jimmy Carr,Griff Rhys Jones,TRUE,TRUE,TRUE,TRUE,TRUE
+7,8,Susanna Reid,Lee Mack,David Mitchell,Jimmy Carr,Griff Rhys Jones,FALSE,FALSE,FALSE,TRUE,FALSE
+7,8,Griff Rhys Jones,David Mitchell,Lee Mack,Susanna Reid,Dave Myers,TRUE,TRUE,TRUE,TRUE,TRUE
+7,8,Lee Mack,Lee Mack,David Mitchell,Jimmy Carr,Griff Rhys Jones,FALSE,FALSE,TRUE,FALSE,TRUE
+7,10,Stephen Mangan,David Mitchell,Lee Mack,Barry Cryer,Miles Jupp,TRUE,TRUE,TRUE,TRUE,FALSE
+7,10,Barry Cryer,Lee Mack,David Mitchell,Miranda Hart,Stephen Mangan,TRUE,TRUE,TRUE,TRUE,FALSE
+7,10,Miles Jupp,Lee Mack,David Mitchell,Miranda Hart,Stephen Mangan,TRUE,TRUE,FALSE,TRUE,FALSE
+7,10,David Mitchell,David Mitchell,Lee Mack,Barry Cryer,Miles Jupp,TRUE,TRUE,FALSE,TRUE,TRUE
+7,10,Miranda Hart,David Mitchell,Lee Mack,Barry Cryer,Miles Jupp,FALSE,FALSE,FALSE,FALSE,FALSE
+7,10,Lee Mack,Lee Mack,David Mitchell,Miranda Hart,Stephen Mangan,TRUE,TRUE,TRUE,TRUE,FALSE
+8,1,Micky Flanagan,David Mitchell,Lee Mack,Steve Jones,Claudia Winkleman,TRUE,TRUE,FALSE,TRUE,TRUE
+8,1,Steve Jones,Lee Mack,David Mitchell,Fiona Bruce,Micky Flanagan,FALSE,FALSE,FALSE,FALSE,TRUE
+8,1,Fiona Bruce,David Mitchell,Lee Mack,Steve Jones,Claudia Winkleman,FALSE,FALSE,FALSE,FALSE,FALSE
+8,1,Lee Mack,Lee Mack,David Mitchell,Fiona Bruce,Micky Flanagan,TRUE,TRUE,TRUE,TRUE,FALSE
+8,1,Claudia Winkleman,Lee Mack,David Mitchell,Fiona Bruce,Micky Flanagan,FALSE,FALSE,FALSE,FALSE,TRUE
+8,2,Bruno Tonioli,Lee Mack,David Mitchell,Rob Beckett,Kirsty Wark,TRUE,TRUE,FALSE,TRUE,TRUE
+8,2,Adam Buxton,Lee Mack,David Mitchell,Rob Beckett,Kirsty Wark,FALSE,FALSE,FALSE,FALSE,FALSE
+8,2,David Mitchell,David Mitchell,Lee Mack,Adam Buxton,Bruno Tonioli,TRUE,TRUE,TRUE,TRUE,TRUE
+8,2,Kirsty Wark,David Mitchell,Lee Mack,Adam Buxton,Bruno Tonioli,TRUE,TRUE,TRUE,TRUE,FALSE
+8,2,Kirsty Wark,David Mitchell,Lee Mack,Adam Buxton,Bruno Tonioli,FALSE,FALSE,TRUE,FALSE,TRUE
+8,3,Mel Giedroyc,Lee Mack,David Mitchell,Kian Egan,Adil Ray,FALSE,FALSE,FALSE,TRUE,TRUE
+8,3,Bob Mortimer,Lee Mack,David Mitchell,Kian Egan,Adil Ray,FALSE,FALSE,FALSE,TRUE,TRUE
+8,3,Kian Egan,David Mitchell,Lee Mack,Mel Giedroyc,Bob Mortimer,TRUE,TRUE,TRUE,FALSE,FALSE
+8,3,Lee Mack,Lee Mack,David Mitchell,Kian Egan,Adil Ray,FALSE,FALSE,TRUE,FALSE,TRUE
+8,3,Bob Mortimer,Lee Mack,David Mitchell,Kian Egan,Adil Ray,TRUE,TRUE,TRUE,TRUE,FALSE
+8,3,Adil Ray,David Mitchell,Lee Mack,Mel Giedroyc,Bob Mortimer,TRUE,TRUE,TRUE,TRUE,TRUE
+8,4,Miles Jupp,David Mitchell,Lee Mack,Ed Byrne,Emilia Fox,TRUE,TRUE,TRUE,TRUE,FALSE
+8,4,Ed Byrne,Lee Mack,David Mitchell,Heston Blumenthal,Miles Jupp,TRUE,TRUE,TRUE,TRUE,TRUE
+8,4,Lee Mack,Lee Mack,David Mitchell,Heston Blumenthal,Miles Jupp,TRUE,TRUE,TRUE,TRUE,TRUE
+8,4,David Mitchell,David Mitchell,Lee Mack,Ed Byrne,Emilia Fox,TRUE,TRUE,TRUE,TRUE,FALSE
+8,4,Miles Jupp,David Mitchell,Lee Mack,Ed Byrne,Emilia Fox,TRUE,TRUE,TRUE,TRUE,FALSE
+8,5,Kelly Hoppen,Lee Mack,David Mitchell,Rhod Gilbert,Carol Vorderman,TRUE,TRUE,TRUE,TRUE,FALSE
+8,5,Rhod Gilbert,David Mitchell,Lee Mack,Hal Cruttenden,Kelly Hoppen,FALSE,TRUE,FALSE,FALSE,TRUE
+8,5,Carol Vorderman,David Mitchell,Lee Mack,Hal Cruttenden,Kelly Hoppen,TRUE,TRUE,TRUE,TRUE,TRUE
+8,5,David Mitchell,David Mitchell,Lee Mack,Hal Cruttenden,Kelly Hoppen,TRUE,TRUE,TRUE,TRUE,FALSE
+8,5,Lee Mack,Lee Mack,David Mitchell,Rhod Gilbert,Carol Vorderman,TRUE,TRUE,TRUE,TRUE,FALSE
+8,6,Gareth Malone,Lee Mack,David Mitchell,Amanda Abbington,Phill Jupitus,FALSE,FALSE,FALSE,FALSE,FALSE
+8,6,Phill Jupitus,David Mitchell,Lee Mack,Gareth Malone,Richard Osman,FALSE,FALSE,TRUE,TRUE,TRUE
+8,6,Richard Osman,Lee Mack,David Mitchell,Amanda Abbington,Phill Jupitus,TRUE,TRUE,TRUE,TRUE,FALSE
+8,6,Amanda Abbington,David Mitchell,Lee Mack,Gareth Malone,Richard Osman,TRUE,FALSE,TRUE,TRUE,TRUE
+8,6,Lee Mack,Lee Mack,David Mitchell,Amanda Abbington,Phill Jupitus,FALSE,FALSE,FALSE,FALSE,TRUE
+8,6,Gareth Malone,Lee Mack,David Mitchell,Amanda Abbington,Phill Jupitus,FALSE,FALSE,FALSE,FALSE,TRUE
+8,7,Jo Brand,David Mitchell,Lee Mack,Roisin Conaty,Ray Mears,TRUE,TRUE,FALSE,TRUE,TRUE
+8,7,Paul Foot,David Mitchell,Lee Mack,Roisin Conaty,Ray Mears,TRUE,TRUE,TRUE,FALSE,TRUE
+8,7,Ray Mears,Lee Mack,David Mitchell,Jo Brand,Paul Foot,TRUE,TRUE,TRUE,TRUE,TRUE
+8,7,Lee Mack,Lee Mack,David Mitchell,Jo Brand,Paul Foot,TRUE,TRUE,TRUE,TRUE,FALSE
+8,7,Jo Brand,David Mitchell,Lee Mack,Roisin Conaty,Ray Mears,TRUE,TRUE,TRUE,FALSE,FALSE
+8,8,Josh Widdicombe,David Mitchell,Lee Mack,Rachel Riley,Ricky Tomlinson,TRUE,TRUE,TRUE,FALSE,TRUE
+8,8,Ray Winstone,David Mitchell,Lee Mack,Rachel Riley,Ricky Tomlinson,TRUE,TRUE,TRUE,TRUE,TRUE
+8,8,David Mitchell,David Mitchell,Lee Mack,Rachel Riley,Ricky Tomlinson,TRUE,TRUE,FALSE,TRUE,FALSE
+8,8,Ray Winstone,David Mitchell,Lee Mack,Rachel Riley,Ricky Tomlinson,TRUE,TRUE,TRUE,TRUE,FALSE
+8,8,Lee Mack,Lee Mack,David Mitchell,Josh Widdicombe,Ray Winstone,TRUE,TRUE,TRUE,TRUE,FALSE
+8,9,Adrian Chiles,David Mitchell,Lee Mack,Aisling Bea,June Brown,FALSE,FALSE,TRUE,FALSE,TRUE
+8,9,June Brown,Lee Mack,David Mitchell,Adrian Chiles,Seann Walsh,FALSE,FALSE,FALSE,FALSE,TRUE
+8,9,David Mitchell,David Mitchell,Lee Mack,Aisling Bea,June Brown,FALSE,FALSE,FALSE,FALSE,TRUE
+8,9,Lee Mack,Lee Mack,David Mitchell,Adrian Chiles,Seann Walsh,TRUE,TRUE,TRUE,TRUE,FALSE
+9,1,Jon Richardson,David Mitchell,Lee Mack,Joe Lycett,Moira Stuart,TRUE,TRUE,TRUE,TRUE,TRUE
+9,1,Joe Lycett,Lee Mack,David Mitchell,Danny Dyer,Jon Richardson,TRUE,TRUE,FALSE,TRUE,FALSE
+9,1,Danny Dyer,David Mitchell,Lee Mack,Joe Lycett,Moira Stuart,FALSE,FALSE,FALSE,FALSE,TRUE
+9,1,Moira Stuart,Lee Mack,David Mitchell,Danny Dyer,Jon Richardson,TRUE,TRUE,TRUE,TRUE,FALSE
+9,1,Danny Dyer,David Mitchell,Lee Mack,Joe Lycett,Moira Stuart,TRUE,TRUE,TRUE,TRUE,FALSE
+9,2,Gabby Logan,David Mitchell,Lee Mack,Bob Mortimer,Katherine Parkinson,TRUE,TRUE,TRUE,FALSE,FALSE
+9,2,Bob Mortimer,Lee Mack,David Mitchell,Steve Backshall,Gabby Logan,TRUE,TRUE,TRUE,TRUE,TRUE
+9,2,Lee Mack,Lee Mack,David Mitchell,Steve Backshall,Gabby Logan,TRUE,TRUE,TRUE,TRUE,FALSE
+9,2,Katherine Parkinson,Lee Mack,David Mitchell,Steve Backshall,Gabby Logan,TRUE,TRUE,FALSE,TRUE,FALSE
+9,2,Bob Mortimer,Lee Mack,David Mitchell,Steve Backshall,Gabby Logan,TRUE,TRUE,TRUE,TRUE,FALSE
+9,3,Alex Jones,Lee Mack,David Mitchell,Greg Davies,Rick Edwards,FALSE,FALSE,FALSE,FALSE,TRUE
+9,3,Greg Davies,David Mitchell,Lee Mack,John Cooper Clarke,Alex Jones,FALSE,FALSE,TRUE,FALSE,TRUE
+9,3,Lee Mack,Lee Mack,David Mitchell,Greg Davies,Rick Edwards,TRUE,TRUE,TRUE,TRUE,FALSE
+9,3,Greg Davies,David Mitchell,Lee Mack,John Cooper Clarke,Alex Jones,TRUE,TRUE,TRUE,FALSE,FALSE
+9,3,David Mitchell,David Mitchell,Lee Mack,John Cooper Clarke,Alex Jones,TRUE,TRUE,TRUE,TRUE,TRUE
+9,4,Richard Osman,Lee Mack,David Mitchell,Alan Davies,Germaine Greer,TRUE,TRUE,TRUE,TRUE,FALSE
+9,4,Germaine Greer,David Mitchell,Lee Mack,Jermaine Jenas,Richard Osman,FALSE,TRUE,FALSE,FALSE,FALSE
+9,4,Lee Mack,Lee Mack,David Mitchell,Alan Davies,Germaine Greer,TRUE,TRUE,FALSE,TRUE,TRUE
+9,4,Jermaine Jenas,Lee Mack,David Mitchell,Alan Davies,Germaine Greer,TRUE,TRUE,TRUE,TRUE,TRUE
+9,4,Germaine Greer,David Mitchell,Lee Mack,Jermaine Jenas,Richard Osman,TRUE,FALSE,TRUE,TRUE,TRUE
+9,4,Jermaine Jenas,Lee Mack,David Mitchell,Alan Davies,Germaine Greer,FALSE,FALSE,FALSE,FALSE,FALSE
+9,5,Rhod Gilbert,David Mitchell,Lee Mack,Clare Balding,Rob Delaney,TRUE,TRUE,TRUE,TRUE,FALSE
+9,5,Nick Grimshaw,David Mitchell,Lee Mack,Clare Balding,Rob Delaney,TRUE,TRUE,TRUE,TRUE,TRUE
+9,5,David Mitchell,David Mitchell,Lee Mack,Clare Balding,Rob Delaney,TRUE,TRUE,TRUE,TRUE,FALSE
+9,5,Lee Mack,Lee Mack,David Mitchell,Rhod Gilbert,Nick Grimshaw,TRUE,TRUE,TRUE,FALSE,FALSE
+9,5,Clare Balding,Lee Mack,David Mitchell,Rhod Gilbert,Nick Grimshaw,FALSE,FALSE,TRUE,FALSE,TRUE
+9,6,Trevor Noah,Lee Mack,David Mitchell,Richard Hammond,Sean Lock,TRUE,TRUE,TRUE,TRUE,TRUE
+9,6,Sean Lock,David Mitchell,Lee Mack,Judy Murray,Trevor Noah,FALSE,FALSE,FALSE,FALSE,TRUE
+9,6,Lee Mack,Lee Mack,David Mitchell,Richard Hammond,Sean Lock,TRUE,TRUE,TRUE,TRUE,FALSE
+9,6,Trevor Noah,Lee Mack,David Mitchell,Richard Hammond,Sean Lock,FALSE,FALSE,FALSE,FALSE,FALSE
+9,7,Romesh Ranganathan,Lee Mack,David Mitchell,Jack Dee,Tinchy Stryder,FALSE,FALSE,FALSE,FALSE,TRUE
+9,7,Tinchy Stryder,David Mitchell,Lee Mack,Romesh Ranganathan,Gaby Roslin,FALSE,FALSE,FALSE,TRUE,TRUE
+9,7,Jack Dee,David Mitchell,Lee Mack,Romesh Ranganathan,Gaby Roslin,TRUE,TRUE,TRUE,TRUE,FALSE
+9,7,Gaby Roslin,Lee Mack,David Mitchell,Jack Dee,Tinchy Stryder,TRUE,TRUE,TRUE,TRUE,FALSE
+9,8,Jo Brand,Lee Mack,David Mitchell,Bill Bailey,Ruth Jones,FALSE,FALSE,FALSE,TRUE,FALSE
+9,8,Bill Bailey,David Mitchell,Lee Mack,Jo Brand,Dame Kelly Holmes,FALSE,FALSE,FALSE,FALSE,TRUE
+9,8,David Mitchell,David Mitchell,Lee Mack,Jo Brand,Dame Kelly Holmes,FALSE,FALSE,FALSE,FALSE,TRUE
+9,8,Lee Mack,Lee Mack,David Mitchell,Bill Bailey,Ruth Jones,TRUE,TRUE,TRUE,TRUE,FALSE
+9,9,Ben Miller,Lee Mack,David Mitchell,Alex Brooker,Doon Mackichan,TRUE,TRUE,TRUE,TRUE,FALSE
+9,9,Henning Wehn,Lee Mack,David Mitchell,Alex Brooker,Doon Mackichan,TRUE,TRUE,TRUE,TRUE,TRUE
+9,9,David Mitchell,David Mitchell,Lee Mack,Ben Miller,Henning Wehn,TRUE,TRUE,TRUE,TRUE,FALSE
+9,9,Doon Mackichan,David Mitchell,Lee Mack,Ben Miller,Henning Wehn,TRUE,TRUE,TRUE,TRUE,FALSE
+10,1,David Haye,David Mitchell,Lee Mack,Mel Giedroyc,Martin Kemp,TRUE,TRUE,FALSE,TRUE,TRUE
+10,1,Mel Giedroyc,Lee Mack,David Mitchell,David Haye,Romesh Ranganathan,TRUE,TRUE,TRUE,TRUE,FALSE
+10,1,Lee Mack,Lee Mack,David Mitchell,David Haye,Romesh Ranganathan,FALSE,FALSE,FALSE,FALSE,TRUE
+10,1,Martin Kemp,Lee Mack,David Mitchell,David Haye,Romesh Ranganathan,FALSE,FALSE,FALSE,FALSE,TRUE
+10,1,David Haye,David Mitchell,Lee Mack,Mel Giedroyc,Martin Kemp,TRUE,TRUE,TRUE,TRUE,FALSE
+10,1,Martin Kemp,Lee Mack,David Mitchell,David Haye,Romesh Ranganathan,TRUE,TRUE,TRUE,FALSE,FALSE
+10,2,Michael Smiley,David Mitchell,Lee Mack,Diane Morgan,Bob Mortimer,FALSE,FALSE,TRUE,FALSE,TRUE
+10,2,Diane Morgan,Lee Mack,David Mitchell,Nadiya Hussain,Michael Smiley,TRUE,TRUE,TRUE,FALSE,TRUE
+10,2,Nadiya Hussain,David Mitchell,Lee Mack,Diane Morgan,Bob Mortimer,FALSE,FALSE,FALSE,TRUE,FALSE
+10,2,Lee Mack,Lee Mack,David Mitchell,Nadiya Hussain,Michael Smiley,FALSE,FALSE,FALSE,FALSE,FALSE
+10,2,Bob Mortimer,Lee Mack,David Mitchell,Nadiya Hussain,Michael Smiley,TRUE,TRUE,TRUE,TRUE,FALSE
+10,2,David Mitchell,David Mitchell,Lee Mack,Diane Morgan,Bob Mortimer,FALSE,FALSE,FALSE,FALSE,FALSE
+10,3,Jason Manford,David Mitchell,Lee Mack,Sara Cox,Harry Shearer,FALSE,FALSE,TRUE,FALSE,TRUE
+10,3,Sara Cox,Lee Mack,David Mitchell,Jason Manford,Nick Robinson,FALSE,FALSE,FALSE,FALSE,TRUE
+10,3,Lee Mack,Lee Mack,David Mitchell,Jason Manford,Nick Robinson,TRUE,TRUE,TRUE,TRUE,FALSE
+10,3,Harry Shearer,Lee Mack,David Mitchell,Jason Manford,Nick Robinson,FALSE,FALSE,FALSE,FALSE,FALSE
+10,3,Nick Robinson,David Mitchell,Lee Mack,Sara Cox,Harry Shearer,TRUE,TRUE,TRUE,TRUE,FALSE
+10,4,Katherine Ryan,David Mitchell,Lee Mack,Warwick Davis,Hugh Dennis,TRUE,TRUE,TRUE,TRUE,FALSE
+10,4,Warwick Davis,Lee Mack,David Mitchell,Katherine Ryan,John Simpson,TRUE,TRUE,TRUE,TRUE,FALSE
+10,4,John Simpson,David Mitchell,Lee Mack,Warwick Davis,Hugh Dennis,TRUE,TRUE,FALSE,TRUE,TRUE
+10,4,David Mitchell,David Mitchell,Lee Mack,Warwick Davis,Hugh Dennis,TRUE,TRUE,TRUE,TRUE,FALSE
+10,4,John Simpson,David Mitchell,Lee Mack,Warwick Davis,Hugh Dennis,FALSE,FALSE,FALSE,TRUE,TRUE
+10,4,Hugh Dennis,Lee Mack,David Mitchell,Katherine Ryan,John Simpson,FALSE,TRUE,FALSE,FALSE,TRUE
+10,5,Josh Widdicombe,David Mitchell,Lee Mack,Kevin Bishop,Brian Blessed,FALSE,FALSE,FALSE,FALSE,FALSE
+10,5,Brian Blessed,Lee Mack,David Mitchell,Josh Widdicombe,Prof. Kate Williams,TRUE,TRUE,TRUE,FALSE,TRUE
+10,5,Kevin Bishop,Lee Mack,David Mitchell,Josh Widdicombe,Prof. Kate Williams,FALSE,FALSE,FALSE,FALSE,TRUE
+10,5,Lee Mack,Lee Mack,David Mitchell,Josh Widdicombe,Prof. Kate Williams,TRUE,TRUE,TRUE,TRUE,FALSE
+10,5,Prof. Kate Williams,David Mitchell,Lee Mack,Kevin Bishop,Brian Blessed,TRUE,TRUE,TRUE,TRUE,TRUE
+10,6,Claudia Winkleman,David Mitchell,Lee Mack,Jamie Laing,Tracy-Ann Oberman,FALSE,FALSE,FALSE,FALSE,FALSE
+10,6,Jamie Laing,Lee Mack,David Mitchell,Rhod Gilbert,Claudia Winkleman,TRUE,TRUE,TRUE,TRUE,TRUE
+10,6,Rhod Gilbert,David Mitchell,Lee Mack,Jamie Laing,Tracy-Ann Oberman,TRUE,TRUE,TRUE,TRUE,TRUE
+10,6,Rhod Gilbert,David Mitchell,Lee Mack,Jamie Laing,Tracy-Ann Oberman,FALSE,FALSE,TRUE,FALSE,TRUE
+10,6,Tracy-Ann Oberman,Lee Mack,David Mitchell,Rhod Gilbert,Claudia Winkleman,FALSE,FALSE,FALSE,FALSE,TRUE
+10,7,Henning Wehn,Lee Mack,David Mitchell,Tom Davis,Shaun Ryder,TRUE,TRUE,TRUE,TRUE,TRUE
+10,7,Shaun Ryder,David Mitchell,Lee Mack,Clara Amfo,Henning Wehn,FALSE,TRUE,FALSE,FALSE,FALSE
+10,7,Clara Amfo,Lee Mack,David Mitchell,Tom Davis,Shaun Ryder,FALSE,FALSE,TRUE,FALSE,TRUE
+10,7,David Mitchell,David Mitchell,Lee Mack,Clara Amfo,Henning Wehn,TRUE,TRUE,TRUE,TRUE,FALSE
+10,8,Jason Watkins,David Mitchell,Lee Mack,Dr. Maggie Aderin-Pocock,Phil Wang,FALSE,FALSE,FALSE,FALSE,TRUE
+10,8,Dr. Maggie Aderin-Pocock,Lee Mack,David Mitchell,Jason Watkins,Adam Woodyatt,TRUE,TRUE,TRUE,TRUE,FALSE
+10,8,Adam Woodyatt,David Mitchell,Lee Mack,Dr. Maggie Aderin-Pocock,Phil Wang,TRUE,TRUE,TRUE,TRUE,FALSE
+10,8,Lee Mack,Lee Mack,David Mitchell,Jason Watkins,Adam Woodyatt,TRUE,TRUE,TRUE,TRUE,FALSE
+10,8,David Mitchell,David Mitchell,Lee Mack,Dr. Maggie Aderin-Pocock,Phil Wang,FALSE,FALSE,TRUE,TRUE,FALSE
+10,10,Richard Osman,David Mitchell,Lee Mack,Chris Kamara,Sara Pascoe,FALSE,FALSE,FALSE,FALSE,FALSE
+10,10,Chris Kamara,Lee Mack,David Mitchell,Sir Tom Courtenay,Richard Osman,TRUE,TRUE,TRUE,TRUE,FALSE
+10,10,Sara Pascoe,Lee Mack,David Mitchell,Sir Tom Courtenay,Richard Osman,TRUE,TRUE,FALSE,TRUE,TRUE
+10,10,Sir Tom Courtenay,David Mitchell,Lee Mack,Chris Kamara,Sara Pascoe,FALSE,FALSE,TRUE,TRUE,FALSE
+10,10,David Mitchell,David Mitchell,Lee Mack,Chris Kamara,Sara Pascoe,FALSE,FALSE,FALSE,FALSE,FALSE
+11,1,Ed Balls,Lee Mack,David Mitchell,David Baddiel,Kimberly Wyatt,TRUE,FALSE,TRUE,TRUE,TRUE
+11,1,Kimberly Wyatt,David Mitchell,Lee Mack,Ed Balls,Jo Brand,FALSE,FALSE,FALSE,FALSE,TRUE
+11,1,David Baddiel,David Mitchell,Lee Mack,Ed Balls,Jo Brand,TRUE,TRUE,TRUE,TRUE,TRUE
+11,1,Jo Brand,Lee Mack,David Mitchell,David Baddiel,Kimberly Wyatt,TRUE,TRUE,TRUE,TRUE,FALSE
+11,2,Sheila Hancock,David Mitchell,Lee Mack,Mark Bonnar,Anita Rani,TRUE,TRUE,TRUE,TRUE,FALSE
+11,2,Anita Rani,Lee Mack,David Mitchell,Sheila Hancock,Stephen Mangan,FALSE,FALSE,FALSE,TRUE,TRUE
+11,2,Lee Mack,Lee Mack,David Mitchell,Sheila Hancock,Stephen Mangan,TRUE,TRUE,TRUE,TRUE,FALSE
+11,2,Mark Bonnar,Lee Mack,David Mitchell,Sheila Hancock,Stephen Mangan,TRUE,TRUE,TRUE,FALSE,FALSE
+11,3,James Acaster,Lee Mack,David Mitchell,Melvin Odoom,Fay Ripley,TRUE,TRUE,FALSE,TRUE,TRUE
+11,3,Melvin Odoom,David Mitchell,Lee Mack,James Acaster,Gabby Logan,TRUE,TRUE,TRUE,TRUE,TRUE
+11,3,David Mitchell,David Mitchell,Lee Mack,James Acaster,Gabby Logan,TRUE,TRUE,TRUE,TRUE,FALSE
+11,3,Fay Ripley,David Mitchell,Lee Mack,James Acaster,Gabby Logan,FALSE,FALSE,FALSE,TRUE,TRUE
+11,4,Susie Dent,David Mitchell,Lee Mack,Bob Mortimer,Ore Oduba,FALSE,FALSE,FALSE,FALSE,TRUE
+11,4,Bob Mortimer,Lee Mack,David Mitchell,Susie Dent,Stacey Solomon,TRUE,TRUE,TRUE,TRUE,TRUE
+11,4,Lee Mack,Lee Mack,David Mitchell,Susie Dent,Stacey Solomon,TRUE,TRUE,TRUE,TRUE,FALSE
+11,4,Stacey Solomon,David Mitchell,Lee Mack,Bob Mortimer,Ore Oduba,FALSE,FALSE,FALSE,FALSE,FALSE
+11,5,The Rev. Richard Coles,Lee Mack,David Mitchell,Henry Blofeld,Kerry Howard,TRUE,TRUE,TRUE,TRUE,FALSE
+11,5,Henry Blofeld,David Mitchell,Lee Mack,The Rev. Richard Coles,Clive Myrie,TRUE,TRUE,TRUE,TRUE,FALSE
+11,5,Kerry Howard,David Mitchell,Lee Mack,The Rev. Richard Coles,Clive Myrie,TRUE,TRUE,TRUE,TRUE,FALSE
+11,5,Henry Blofeld,David Mitchell,Lee Mack,The Rev. Richard Coles,Clive Myrie,TRUE,FALSE,TRUE,TRUE,TRUE
+11,6,Sara Pascoe,Lee Mack,David Mitchell,Craig Parkinson,Claudia Winkleman,FALSE,FALSE,FALSE,FALSE,TRUE
+11,6,Craig Parkinson,David Mitchell,Lee Mack,Steve Davis,Sara Pascoe,FALSE,FALSE,FALSE,FALSE,FALSE
+11,6,David Mitchell,David Mitchell,Lee Mack,Steve Davis,Sara Pascoe,TRUE,TRUE,TRUE,TRUE,FALSE
+11,6,Lee Mack,Lee Mack,David Mitchell,Craig Parkinson,Claudia Winkleman,TRUE,TRUE,TRUE,TRUE,FALSE
+11,6,Claudia Winkleman,David Mitchell,Lee Mack,Steve Davis,Sara Pascoe,TRUE,TRUE,TRUE,TRUE,TRUE
+11,6,Steve Davis,Lee Mack,David Mitchell,Craig Parkinson,Claudia Winkleman,TRUE,TRUE,TRUE,TRUE,TRUE
+11,7,Miles Jupp,Lee Mack,David Mitchell,Nish Kumar,Joe Lycett,TRUE,TRUE,TRUE,TRUE,FALSE
+11,7,Joe Lycett,David Mitchell,Lee Mack,Nikki Fox,Miles Jupp,FALSE,FALSE,FALSE,FALSE,FALSE
+11,7,Nikki Fox,Lee Mack,David Mitchell,Nish Kumar,Joe Lycett,TRUE,TRUE,TRUE,FALSE,FALSE
+11,7,Lee Mack,Lee Mack,David Mitchell,Nish Kumar,Joe Lycett,TRUE,TRUE,TRUE,TRUE,FALSE
+11,8,Ade Edmondson,Lee Mack,David Mitchell,Claude Littner,Jordan Stephens,TRUE,TRUE,TRUE,TRUE,TRUE
+11,8,Cariad Lloyd,Lee Mack,David Mitchell,Claude Littner,Jordan Stephens,TRUE,TRUE,FALSE,TRUE,TRUE
+11,8,Lee Mack,Lee Mack,David Mitchell,Claude Littner,Jordan Stephens,TRUE,TRUE,TRUE,TRUE,FALSE
+11,8,Claude Littner,David Mitchell,Lee Mack,Ade Edmondson,Cariad Lloyd,TRUE,TRUE,TRUE,TRUE,FALSE
+11,8,Jordan Stephens,David Mitchell,Lee Mack,Ade Edmondson,Cariad Lloyd,FALSE,FALSE,FALSE,FALSE,FALSE
+11,9,Richard Osman,David Mitchell,Lee Mack,Denise Lewis,Robert Rinder,TRUE,TRUE,TRUE,TRUE,FALSE
+11,9,Denise Lewis,Lee Mack,David Mitchell,Richard Osman,Katherine Ryan,FALSE,FALSE,TRUE,FALSE,TRUE
+11,9,David Mitchell,David Mitchell,Lee Mack,Denise Lewis,Robert Rinder,TRUE,TRUE,TRUE,TRUE,TRUE
+11,9,Katherine Ryan,David Mitchell,Lee Mack,Denise Lewis,Robert Rinder,TRUE,TRUE,TRUE,TRUE,FALSE
+12,1,Debbie McGee,Lee Mack,David Mitchell,Dion Dublin,Lucy Porter,TRUE,TRUE,TRUE,TRUE,TRUE
+12,1,Dion Dublin,David Mitchell,Lee Mack,Debbie McGee,Bob Mortimer,TRUE,TRUE,TRUE,FALSE,FALSE
+12,1,Bob Mortimer,Lee Mack,David Mitchell,Dion Dublin,Lucy Porter,FALSE,FALSE,FALSE,FALSE,FALSE
+12,1,Bob Mortimer,Lee Mack,David Mitchell,Dion Dublin,Lucy Porter,TRUE,TRUE,TRUE,TRUE,TRUE
+12,1,David Mitchell,David Mitchell,Lee Mack,Debbie McGee,Bob Mortimer,TRUE,TRUE,TRUE,TRUE,FALSE
+12,1,Lucy Porter,David Mitchell,Lee Mack,Debbie McGee,Bob Mortimer,TRUE,TRUE,TRUE,TRUE,TRUE
+12,2,Rylan Clark-Neal,David Mitchell,Lee Mack,Sara Pascoe,Paul Sinha,FALSE,FALSE,FALSE,FALSE,TRUE
+12,2,Sara Pascoe,Lee Mack,David Mitchell,Rylan Clark-Neal,Mary Portas,FALSE,FALSE,FALSE,FALSE,TRUE
+12,2,Paul Sinha,Lee Mack,David Mitchell,Rylan Clark-Neal,Mary Portas,TRUE,TRUE,TRUE,FALSE,FALSE
+12,2,Mary Portas,David Mitchell,Lee Mack,Sara Pascoe,Paul Sinha,TRUE,TRUE,TRUE,TRUE,FALSE
+12,3,Jon Richardson,Lee Mack,David Mitchell,Olivia Colman,Aston Merrygold,TRUE,TRUE,TRUE,TRUE,TRUE
+12,3,Olivia Colman,David Mitchell,Lee Mack,Jon Richardson,Michaela Strachan,TRUE,TRUE,TRUE,TRUE,FALSE
+12,3,Aston Merrygold,David Mitchell,Lee Mack,Jon Richardson,Michaela Strachan,FALSE,FALSE,FALSE,TRUE,TRUE
+12,3,Jon Richardson,Lee Mack,David Mitchell,Olivia Colman,Aston Merrygold,FALSE,FALSE,FALSE,FALSE,FALSE
+12,4,Lee Mack,Lee Mack,David Mitchell,Prue Leith,Big Narstie,TRUE,TRUE,TRUE,TRUE,FALSE
+12,4,Scarlett Moffatt,Lee Mack,David Mitchell,Prue Leith,Big Narstie,FALSE,FALSE,FALSE,FALSE,TRUE
+12,4,Tomasz Schafernaker,Lee Mack,David Mitchell,Prue Leith,Big Narstie,FALSE,FALSE,FALSE,FALSE,TRUE
+12,4,David Mitchell,David Mitchell,Lee Mack,Scarlett Moffatt,Tomasz Schafernaker,TRUE,TRUE,TRUE,TRUE,FALSE
+12,4,Big Narstie,David Mitchell,Lee Mack,Scarlett Moffatt,Tomasz Schafernaker,TRUE,TRUE,TRUE,TRUE,TRUE
+12,5,Jo Brand,Lee Mack,David Mitchell,Jonnie Peacock,Shaun Williamson,FALSE,FALSE,FALSE,FALSE,FALSE
+12,5,Shaun Williamson,David Mitchell,Lee Mack,Jo Brand,Emma Bunton,TRUE,TRUE,TRUE,TRUE,FALSE
+12,5,Emma Bunton,Lee Mack,David Mitchell,Jonnie Peacock,Shaun Williamson,TRUE,TRUE,TRUE,TRUE,TRUE
+12,5,Lee Mack,Lee Mack,David Mitchell,Jonnie Peacock,Shaun Williamson,TRUE,TRUE,TRUE,TRUE,FALSE
+12,5,Emma Bunton,Lee Mack,David Mitchell,Jonnie Peacock,Shaun Williamson,FALSE,FALSE,FALSE,FALSE,TRUE
+12,5,Jo Brand,Lee Mack,David Mitchell,Jonnie Peacock,Shaun Williamson,TRUE,TRUE,TRUE,TRUE,TRUE
+12,6,Richard Osman,David Mitchell,Lee Mack,Daisy May Cooper,Rory Reid,FALSE,FALSE,FALSE,FALSE,FALSE
+12,6,Rory Reid,Lee Mack,David Mitchell,Diane Morgan,Richard Osman,TRUE,TRUE,TRUE,TRUE,TRUE
+12,6,Lee Mack,Lee Mack,David Mitchell,Diane Morgan,Richard Osman,TRUE,TRUE,TRUE,TRUE,FALSE
+12,6,Diane Morgan,David Mitchell,Lee Mack,Daisy May Cooper,Rory Reid,TRUE,TRUE,TRUE,TRUE,TRUE
+12,7,Noddy Holder,David Mitchell,Lee Mack,James Acaster,Sian Gibson,TRUE,TRUE,TRUE,TRUE,TRUE
+12,7,James Acaster,Lee Mack,David Mitchell,Lily Allen,Noddy Holder,FALSE,FALSE,FALSE,FALSE,TRUE
+12,7,David Mitchell,David Mitchell,Lee Mack,James Acaster,Sian Gibson,TRUE,TRUE,TRUE,TRUE,FALSE
+12,7,Lily Allen,David Mitchell,Lee Mack,James Acaster,Sian Gibson,TRUE,TRUE,TRUE,TRUE,FALSE
+12,8,"Georgia ""Toff"" Toffolo",David Mitchell,Lee Mack,Rhod Gilbert,Ellie Taylor,TRUE,TRUE,TRUE,FALSE,TRUE
+12,8,Ronan Keating,David Mitchell,Lee Mack,Rhod Gilbert,Ellie Taylor,TRUE,TRUE,FALSE,FALSE,FALSE
+12,8,Rhod Gilbert,Lee Mack,David Mitchell,Ronan Keating,"Georgia ""Toff"" Toffolo",TRUE,TRUE,TRUE,FALSE,TRUE
+12,8,Ellie Taylor,Lee Mack,David Mitchell,Ronan Keating,"Georgia ""Toff"" Toffolo",TRUE,TRUE,TRUE,TRUE,FALSE
+12,9,Alex Jones,David Mitchell,Lee Mack,Stacey Dooley,Henning Wehn,FALSE,FALSE,FALSE,FALSE,TRUE
+12,9,Henning Wehn,Lee Mack,David Mitchell,Alex Jones,Rachel Parris,TRUE,TRUE,TRUE,TRUE,FALSE
+12,9,Stacey Dooley,Lee Mack,David Mitchell,Alex Jones,Rachel Parris,TRUE,TRUE,TRUE,FALSE,TRUE
+12,9,Lee Mack,Lee Mack,David Mitchell,Alex Jones,Rachel Parris,TRUE,TRUE,TRUE,TRUE,FALSE
+12,9,Henning Wehn,Lee Mack,David Mitchell,Alex Jones,Rachel Parris,TRUE,TRUE,TRUE,TRUE,TRUE
+13,1,Chris McCausland,Lee Mack,David Mitchell,Gabby Logan,John Simm,TRUE,TRUE,FALSE,FALSE,TRUE
+13,1,John Simm,David Mitchell,Lee Mack,Chris McCausland,Angela Scanlon,TRUE,TRUE,TRUE,TRUE,TRUE
+13,1,Angela Scanlon,Lee Mack,David Mitchell,Gabby Logan,John Simm,FALSE,FALSE,FALSE,FALSE,TRUE
+13,1,Lee Mack,Lee Mack,David Mitchell,Gabby Logan,John Simm,TRUE,TRUE,TRUE,TRUE,FALSE
+13,2,Greg James,David Mitchell,Lee Mack,Clare Balding,Asim Chaudhry,FALSE,FALSE,FALSE,FALSE,TRUE
+13,2,Asim Chaudhry,Lee Mack,David Mitchell,Victoria Coren,Greg James,FALSE,FALSE,FALSE,FALSE,FALSE
+13,2,Clare Balding,Lee Mack,David Mitchell,Victoria Coren,Greg James,TRUE,TRUE,TRUE,TRUE,TRUE
+13,2,David Mitchell,David Mitchell,Lee Mack,Clare Balding,Asim Chaudhry,TRUE,TRUE,TRUE,TRUE,FALSE
+13,2,Asim Chaudhry,Lee Mack,David Mitchell,Victoria Coren,Greg James,TRUE,TRUE,TRUE,TRUE,TRUE
+13,2,Clare Balding,Lee Mack,David Mitchell,Victoria Coren,Greg James,FALSE,FALSE,FALSE,TRUE,FALSE
+13,2,Victoria Coren,David Mitchell,Lee Mack,Clare Balding,Asim Chaudhry,FALSE,FALSE,FALSE,FALSE,TRUE
+13,2,Lee Mack,Lee Mack,David Mitchell,Victoria Coren,Greg James,FALSE,TRUE,FALSE,FALSE,TRUE
+13,3,Anneka Rice,Lee Mack,David Mitchell,Miles Jupp,Samson Kayo,FALSE,FALSE,FALSE,TRUE,FALSE
+13,3,Miles Jupp,David Mitchell,Lee Mack,Liz Carr,Anneka Rice,TRUE,TRUE,TRUE,TRUE,FALSE
+13,3,David Mitchell,David Mitchell,Lee Mack,Liz Carr,Anneka Rice,TRUE,TRUE,TRUE,TRUE,FALSE
+13,3,Samson Kayo,David Mitchell,Lee Mack,Liz Carr,Anneka Rice,FALSE,FALSE,FALSE,FALSE,TRUE
+13,3,Liz Carr,Lee Mack,David Mitchell,Miles Jupp,Samson Kayo,TRUE,TRUE,TRUE,TRUE,TRUE
+13,4,Greg Davies,Lee Mack,David Mitchell,Guz Khan,Claudia Winkleman,FALSE,FALSE,FALSE,TRUE,TRUE
+13,4,Guz Khan,David Mitchell,Lee Mack,Greg Davies,Lucy Worsley,TRUE,TRUE,TRUE,FALSE,TRUE
+13,4,Lee Mack,Lee Mack,David Mitchell,Guz Khan,Claudia Winkleman,TRUE,TRUE,TRUE,TRUE,FALSE
+13,4,Lucy Worsley,Lee Mack,David Mitchell,Guz Khan,Claudia Winkleman,TRUE,TRUE,TRUE,TRUE,TRUE
+13,4,Claudia Winkleman,David Mitchell,Lee Mack,Greg Davies,Lucy Worsley,FALSE,FALSE,FALSE,FALSE,TRUE
+13,4,Greg Davies,Lee Mack,David Mitchell,Guz Khan,Claudia Winkleman,TRUE,TRUE,TRUE,TRUE,FALSE
+13,4,Claudia Winkleman,David Mitchell,Lee Mack,Greg Davies,Lucy Worsley,TRUE,TRUE,FALSE,TRUE,FALSE
+13,5,Alice Levine,Lee Mack,David Mitchell,Jay Blades,Sue Johnston,FALSE,TRUE,FALSE,FALSE,TRUE
+13,5,Jay Blades,David Mitchell,Lee Mack,Alice Levine,Bob Mortimer,TRUE,TRUE,TRUE,FALSE,FALSE
+13,5,Bob Mortimer,Lee Mack,David Mitchell,Jay Blades,Sue Johnston,FALSE,FALSE,FALSE,FALSE,TRUE
+13,5,Bob Mortimer,Lee Mack,David Mitchell,Jay Blades,Sue Johnston,TRUE,TRUE,TRUE,TRUE,FALSE
+13,5,Sue Johnston,David Mitchell,Lee Mack,Alice Levine,Bob Mortimer,FALSE,FALSE,TRUE,FALSE,TRUE
+13,5,Lee Mack,Lee Mack,David Mitchell,Jay Blades,Sue Johnston,TRUE,TRUE,TRUE,TRUE,FALSE
+13,6,Stephen Merchant,David Mitchell,Lee Mack,Sharon Osbourne,Dr. Ranj Singh,TRUE,TRUE,TRUE,FALSE,TRUE
+13,6,Sharon Osbourne,Lee Mack,David Mitchell,Liz Bonnin,Stephen Merchant,TRUE,TRUE,TRUE,TRUE,TRUE
+13,6,Stephen Merchant,David Mitchell,Lee Mack,Sharon Osbourne,Dr. Ranj Singh,TRUE,TRUE,TRUE,TRUE,TRUE
+13,6,Lee Mack,Lee Mack,David Mitchell,Liz Bonnin,Stephen Merchant,TRUE,TRUE,TRUE,TRUE,FALSE
+13,6,Dr. Ranj Singh,Lee Mack,David Mitchell,Liz Bonnin,Stephen Merchant,TRUE,TRUE,TRUE,TRUE,FALSE
+13,6,Liz Bonnin,David Mitchell,Lee Mack,Sharon Osbourne,Dr. Ranj Singh,TRUE,TRUE,TRUE,TRUE,FALSE
+13,7,Richard Osman,David Mitchell,Lee Mack,Steph McGovern,Joe Sugg,TRUE,TRUE,TRUE,TRUE,FALSE
+13,7,Jennifer Saunders,David Mitchell,Lee Mack,Steph McGovern,Joe Sugg,FALSE,TRUE,FALSE,FALSE,TRUE
+13,7,Richard Osman,David Mitchell,Lee Mack,Steph McGovern,Joe Sugg,FALSE,FALSE,FALSE,FALSE,TRUE
+13,7,Joe Sugg,Lee Mack,David Mitchell,Richard Osman,Jennifer Saunders,TRUE,TRUE,TRUE,TRUE,TRUE
+13,7,Jennifer Saunders,David Mitchell,Lee Mack,Steph McGovern,Joe Sugg,FALSE,FALSE,FALSE,FALSE,FALSE
+13,7,David Mitchell,David Mitchell,Lee Mack,Steph McGovern,Joe Sugg,TRUE,TRUE,TRUE,TRUE,FALSE
+13,8,Tom Allen,Lee Mack,David Mitchell,Geoff Norcott,Esme Young,TRUE,TRUE,FALSE,TRUE,FALSE
+13,8,Esme Young,David Mitchell,Lee Mack,Tom Allen,Vicki Pepperdine,TRUE,TRUE,TRUE,TRUE,TRUE
+13,8,Geoff Norcott,David Mitchell,Lee Mack,Tom Allen,Vicki Pepperdine,FALSE,FALSE,FALSE,TRUE,TRUE
+13,8,David Mitchell,David Mitchell,Lee Mack,Tom Allen,Vicki Pepperdine,TRUE,TRUE,TRUE,TRUE,TRUE
+13,9,Jo Brand,David Mitchell,Lee Mack,Simon Day,Henning Wehn,FALSE,FALSE,FALSE,FALSE,TRUE
+13,9,Henning Wehn,Lee Mack,David Mitchell,Jo Brand,Kiri Pritchard-McLean,FALSE,FALSE,FALSE,FALSE,TRUE
+13,9,Simon Day,Lee Mack,David Mitchell,Jo Brand,Kiri Pritchard-McLean,FALSE,FALSE,FALSE,FALSE,FALSE
+13,9,Lee Mack,Lee Mack,David Mitchell,Jo Brand,Kiri Pritchard-McLean,TRUE,TRUE,TRUE,TRUE,FALSE
+13,9,Kiri Pritchard-McLean,David Mitchell,Lee Mack,Simon Day,Henning Wehn,TRUE,TRUE,TRUE,TRUE,FALSE
+13,10,Dani Dyer,David Mitchell,Lee Mack,James Acaster,Oti Mabuse,TRUE,TRUE,TRUE,TRUE,TRUE
+13,10,James Acaster,Lee Mack,David Mitchell,Dani Dyer,Fred Sirieix,FALSE,FALSE,FALSE,FALSE,TRUE
+13,10,David Mitchell,David Mitchell,Lee Mack,James Acaster,Oti Mabuse,TRUE,TRUE,TRUE,TRUE,FALSE
+13,10,Lee Mack,Lee Mack,David Mitchell,Dani Dyer,Fred Sirieix,TRUE,TRUE,TRUE,TRUE,FALSE
+13,10,Fred Sirieix,David Mitchell,Lee Mack,James Acaster,Oti Mabuse,FALSE,FALSE,FALSE,FALSE,FALSE
+14,1,Joe Lycett,David Mitchell,Lee Mack,Jo Brand,Joe Swash,TRUE,TRUE,TRUE,TRUE,FALSE
+14,1,Joe Swash,Lee Mack,David Mitchell,Joe Lycett,Ruth Madeley,TRUE,TRUE,TRUE,TRUE,TRUE
+14,1,Ruth Madeley,David Mitchell,Lee Mack,Jo Brand,Joe Swash,TRUE,TRUE,TRUE,TRUE,FALSE
+14,1,Jo Brand,Lee Mack,David Mitchell,Joe Lycett,Ruth Madeley,TRUE,TRUE,TRUE,TRUE,TRUE
+14,1,Lee Mack,Lee Mack,David Mitchell,Joe Lycett,Ruth Madeley,TRUE,TRUE,TRUE,TRUE,FALSE
+14,2,Richard Osman,David Mitchell,Lee Mack,Les Dennis,Alice Levine,TRUE,TRUE,TRUE,TRUE,FALSE
+14,2,Les Dennis,Lee Mack,David Mitchell,Richard Osman,Lou Sanders,TRUE,TRUE,TRUE,TRUE,TRUE
+14,2,Lou Sanders,David Mitchell,Lee Mack,Les Dennis,Alice Levine,FALSE,FALSE,FALSE,FALSE,TRUE
+14,2,David Mitchell,David Mitchell,Lee Mack,Les Dennis,Alice Levine,TRUE,TRUE,TRUE,TRUE,FALSE
+14,2,Les Dennis,Lee Mack,David Mitchell,Richard Osman,Lou Sanders,FALSE,FALSE,FALSE,FALSE,TRUE
+14,3,Chris McCausland,David Mitchell,Lee Mack,Maisie Adam,Stephen Hendry,FALSE,TRUE,FALSE,FALSE,TRUE
+14,3,Stephen Hendry,Lee Mack,David Mitchell,Chris McCausland,Laura Whitmore,FALSE,FALSE,FALSE,FALSE,FALSE
+14,3,Maisie Adam,Lee Mack,David Mitchell,Chris McCausland,Laura Whitmore,FALSE,TRUE,FALSE,FALSE,TRUE
+14,3,Lee Mack,Lee Mack,David Mitchell,Chris McCausland,Laura Whitmore,TRUE,TRUE,TRUE,TRUE,TRUE
+14,3,Chris McCausland,David Mitchell,Lee Mack,Maisie Adam,Stephen Hendry,FALSE,FALSE,FALSE,FALSE,TRUE
+14,4,Josh Widdicombe,Lee Mack,David Mitchell,Raj Bisram,Gemma Cairney,FALSE,TRUE,FALSE,FALSE,TRUE
+14,4,Raj Bisram,David Mitchell,Lee Mack,Sophie Hermann,Josh Widdicombe,FALSE,FALSE,FALSE,FALSE,TRUE
+14,4,Sophie Hermann,Lee Mack,David Mitchell,Raj Bisram,Gemma Cairney,TRUE,TRUE,TRUE,TRUE,FALSE
+14,4,Lee Mack,Lee Mack,David Mitchell,Raj Bisram,Gemma Cairney,TRUE,TRUE,TRUE,TRUE,FALSE
+14,4,Josh Widdicombe,Lee Mack,David Mitchell,Raj Bisram,Gemma Cairney,FALSE,FALSE,FALSE,FALSE,FALSE
+14,4,Sophie Hermann,Lee Mack,David Mitchell,Raj Bisram,Gemma Cairney,TRUE,TRUE,TRUE,TRUE,TRUE
+14,5,Miles Jupp,David Mitchell,Lee Mack,Sarah Hadland,Bob Mortimer,TRUE,TRUE,TRUE,TRUE,FALSE
+14,5,Samantha Morton,David Mitchell,Lee Mack,Sarah Hadland,Bob Mortimer,FALSE,FALSE,FALSE,FALSE,FALSE
+14,5,Sarah Hadland,Lee Mack,David Mitchell,Miles Jupp,Samantha Morton,FALSE,FALSE,FALSE,FALSE,TRUE
+14,5,Bob Mortimer,Lee Mack,David Mitchell,Miles Jupp,Samantha Morton,FALSE,FALSE,FALSE,TRUE,TRUE
+14,5,Lee Mack,Lee Mack,David Mitchell,Miles Jupp,Samantha Morton,TRUE,TRUE,TRUE,TRUE,FALSE
+14,5,Bob Mortimer,Lee Mack,David Mitchell,Miles Jupp,Samantha Morton,TRUE,TRUE,FALSE,TRUE,FALSE
+14,6,The Rev. Kate Bottley,Lee Mack,David Mitchell,Sara Barron,Claudia Winkleman,FALSE,FALSE,FALSE,FALSE,TRUE
+14,6,Claudia Winkleman,David Mitchell,Lee Mack,The Rev. Kate Bottley,Ed Gamble,TRUE,TRUE,FALSE,TRUE,TRUE
+14,6,Sara Barron,David Mitchell,Lee Mack,The Rev. Kate Bottley,Ed Gamble,TRUE,TRUE,TRUE,FALSE,FALSE
+14,6,David Mitchell,David Mitchell,Lee Mack,The Rev. Kate Bottley,Ed Gamble,TRUE,TRUE,TRUE,TRUE,FALSE
+14,6,Sara Barron,David Mitchell,Lee Mack,The Rev. Kate Bottley,Ed Gamble,TRUE,TRUE,TRUE,TRUE,TRUE
+14,6,Ed Gamble,Lee Mack,David Mitchell,Sara Barron,Claudia Winkleman,TRUE,TRUE,TRUE,TRUE,TRUE
+14,7,Sara Pascoe,Lee Mack,David Mitchell,Nicola Coughlan,Dan Walker,TRUE,TRUE,TRUE,TRUE,TRUE
+14,7,Dan Walker,David Mitchell,Lee Mack,Mr Motivator,Sara Pascoe,FALSE,FALSE,FALSE,FALSE,TRUE
+14,7,Mr. Motivator,Lee Mack,David Mitchell,Nicola Coughlan,Dan Walker,TRUE,TRUE,FALSE,TRUE,TRUE
+14,7,Lee Mack,Lee Mack,David Mitchell,Nicola Coughlan,Dan Walker,FALSE,FALSE,FALSE,TRUE,FALSE
+14,7,Dan Walker,David Mitchell,Lee Mack,Mr Motivator,Sara Pascoe,TRUE,TRUE,TRUE,TRUE,FALSE
+14,7,Sara Pascoe,Lee Mack,David Mitchell,Nicola Coughlan,Dan Walker,FALSE,FALSE,TRUE,FALSE,FALSE
+14,8,Sindhu Vee,Lee Mack,David Mitchell,Joel Dommett,AJ Odudu,TRUE,TRUE,TRUE,FALSE,FALSE
+14,8,AJ Odudu,David Mitchell,Lee Mack,Alex Horne,Sindhu Vee,FALSE,TRUE,FALSE,FALSE,FALSE
+14,8,Alex Horne,Lee Mack,David Mitchell,Joel Dommett,AJ Odudu,TRUE,TRUE,TRUE,TRUE,TRUE
+14,8,Lee Mack,Lee Mack,David Mitchell,Joel Dommett,AJ Odudu,TRUE,TRUE,TRUE,TRUE,FALSE
+14,8,AJ Odudu,David Mitchell,Lee Mack,Alex Horne,Sindhu Vee,FALSE,FALSE,FALSE,FALSE,TRUE
+14,9,Maya Jama,Lee Mack,David Mitchell,Roisin Conaty,Roman Kemp,TRUE,TRUE,TRUE,TRUE,FALSE
+14,9,Dr. Xand van Tulleken,Lee Mack,David Mitchell,Roisin Conaty,Roman Kemp,FALSE,FALSE,TRUE,TRUE,FALSE
+14,9,Roisin Conaty,David Mitchell,Lee Mack,Maya Jama,Dr. Xand van Tulleken,FALSE,FALSE,FALSE,FALSE,TRUE
+14,9,Roman Kemp,David Mitchell,Lee Mack,Maya Jama,Dr. Xand van Tulleken,FALSE,FALSE,FALSE,FALSE,TRUE
+14,9,David Mitchell,David Mitchell,Lee Mack,Maya Jama,Dr. Xand van Tulleken,FALSE,FALSE,FALSE,FALSE,FALSE
+14,9,Dr. Xand van Tulleken,Lee Mack,David Mitchell,Roisin Conaty,Roman Kemp,FALSE,FALSE,FALSE,TRUE,TRUE
+14,10,Alex Jones,David Mitchell,Lee Mack,Anna Maxwell Martin,Johnny Vegas,FALSE,TRUE,FALSE,FALSE,TRUE
+14,10,Johnny Vegas,Lee Mack,David Mitchell,Alex Jones,Martin Lewis,FALSE,FALSE,FALSE,FALSE,FALSE
+14,10,Martin Lewis,David Mitchell,Lee Mack,Anna Maxwell Martin,Johnny Vegas,TRUE,TRUE,TRUE,FALSE,TRUE
+14,10,David Mitchell,David Mitchell,Lee Mack,Anna Maxwell Martin,Johnny Vegas,TRUE,TRUE,TRUE,FALSE,TRUE
+14,10,Johnny Vegas,Lee Mack,David Mitchell,Alex Jones,Martin Lewis,FALSE,FALSE,FALSE,TRUE,FALSE
+15,1,Ardal O'Hanlon,Lee Mack,David Mitchell,Jim Broadbent,Rose Matafeo,TRUE,TRUE,FALSE,FALSE,TRUE
+15,1,Angela Rippon,Lee Mack,David Mitchell,Jim Broadbent,Rose Matafeo,TRUE,TRUE,TRUE,TRUE,FALSE
+15,1,Rose Matafeo,David Mitchell,Lee Mack,Ardal O'Hanlon,Angela Rippon,FALSE,TRUE,FALSE,FALSE,FALSE
+15,1,Jim Broadbent,David Mitchell,Lee Mack,Ardal O'Hanlon,Angela Rippon,TRUE,TRUE,TRUE,TRUE,TRUE
+15,1,David Mitchell,David Mitchell,Lee Mack,Ardal O'Hanlon,Angela Rippon,FALSE,FALSE,TRUE,FALSE,FALSE
+15,1,Jim Broadbent,David Mitchell,Lee Mack,Ardal O'Hanlon,Angela Rippon,TRUE,TRUE,TRUE,TRUE,FALSE
+15,1,Ardal O'Hanlon,Lee Mack,David Mitchell,Jim Broadbent,Rose Matafeo,TRUE,TRUE,TRUE,FALSE,FALSE
+15,2,Chris McCausland,David Mitchell,Lee Mack,John Cooper Clarke,Caroline Quentin,FALSE,FALSE,FALSE,FALSE,TRUE
+15,2,Judi Love,David Mitchell,Lee Mack,John Cooper Clarke,Caroline Quentin,TRUE,TRUE,FALSE,TRUE,FALSE
+15,2,John Cooper Clarke,Lee Mack,David Mitchell,Judi Love,Chris McCausland,TRUE,TRUE,TRUE,TRUE,TRUE
+15,2,Caroline Quentin,Lee Mack,David Mitchell,Judi Love,Chris McCausland,FALSE,FALSE,TRUE,TRUE,TRUE
+15,2,Lee Mack,Lee Mack,David Mitchell,Judi Love,Chris McCausland,TRUE,TRUE,TRUE,TRUE,TRUE
+15,2,John Cooper Clarke,Lee Mack,David Mitchell,Judi Love,Chris McCausland,TRUE,TRUE,TRUE,TRUE,FALSE
+15,3,Holly Willoughby,David Mitchell,Lee Mack,Angellica Bell,Bob Mortimer,FALSE,FALSE,FALSE,FALSE,FALSE
+15,3,Bob Mortimer,Lee Mack,David Mitchell,Suggs,Holly Willoughby,FALSE,FALSE,FALSE,FALSE,TRUE
+15,3,Suggs,David Mitchell,Lee Mack,Angellica Bell,Bob Mortimer,TRUE,TRUE,TRUE,TRUE,TRUE
+15,3,David Mitchell,David Mitchell,Lee Mack,Angellica Bell,Bob Mortimer,TRUE,TRUE,TRUE,TRUE,FALSE
+15,3,Holly Willoughby,David Mitchell,Lee Mack,Angellica Bell,Bob Mortimer,FALSE,FALSE,TRUE,FALSE,FALSE
+15,3,Angellica Bell,Lee Mack,David Mitchell,Suggs,Holly Willoughby,FALSE,FALSE,FALSE,FALSE,FALSE
+15,3,Bob Mortimer,Lee Mack,David Mitchell,Suggs,Holly Willoughby,FALSE,FALSE,FALSE,FALSE,FALSE
+15,4,Jason Manford,David Mitchell,Lee Mack,Sophie Ellis-Bextor,Loyiso Gola,TRUE,TRUE,TRUE,TRUE,FALSE
+15,4,Briony May Williams,David Mitchell,Lee Mack,Sophie Ellis-Bextor,Loyiso Gola,TRUE,TRUE,TRUE,TRUE,FALSE
+15,4,Loyiso Gola,Lee Mack,David Mitchell,Jason Manford,Briony May Williams,TRUE,TRUE,TRUE,FALSE,TRUE
+15,4,Sophie Ellis-Bextor,Lee Mack,David Mitchell,Jason Manford,Briony May Williams,TRUE,TRUE,TRUE,TRUE,FALSE
+15,4,Lee Mack,Lee Mack,David Mitchell,Jason Manford,Briony May Williams,TRUE,TRUE,TRUE,TRUE,FALSE
+15,5,Gyles Brandreth,David Mitchell,Lee Mack,Yung Filly,Sarah Millican,FALSE,FALSE,FALSE,FALSE,TRUE
+15,5,Sarah Millican,Lee Mack,David Mitchell,Gyles Brandreth,Lou Sanders,FALSE,FALSE,FALSE,FALSE,TRUE
+15,5,Lou Sanders,David Mitchell,Lee Mack,Yung Filly,Sarah Millican,FALSE,TRUE,FALSE,FALSE,FALSE
+15,5,Yung Filly,Lee Mack,David Mitchell,Gyles Brandreth,Lou Sanders,FALSE,FALSE,FALSE,FALSE,FALSE
+15,5,Gyles Brandreth,David Mitchell,Lee Mack,Yung Filly,Sarah Millican,TRUE,TRUE,TRUE,TRUE,TRUE
+15,5,Yung Filly,Lee Mack,David Mitchell,Gyles Brandreth,Lou Sanders,TRUE,TRUE,TRUE,TRUE,TRUE
+15,5,Lou Sanders,David Mitchell,Lee Mack,Yung Filly,Sarah Millican,TRUE,TRUE,FALSE,TRUE,TRUE
+15,5,Lee Mack,Lee Mack,David Mitchell,Gyles Brandreth,Lou Sanders,TRUE,TRUE,TRUE,TRUE,FALSE
+15,6,Richard Osman,David Mitchell,Lee Mack,Pam Ayres,Kiell Smith-Bynoe,TRUE,TRUE,FALSE,TRUE,FALSE
+15,6,Pam Ayres,Lee Mack,David Mitchell,Sarah Kendall,Richard Osman,TRUE,TRUE,TRUE,TRUE,TRUE
+15,6,Sarah Kendall,David Mitchell,Lee Mack,Pam Ayres,Kiell Smith-Bynoe,TRUE,TRUE,TRUE,FALSE,TRUE
+15,6,David Mitchell,David Mitchell,Lee Mack,Pam Ayres,Kiell Smith-Bynoe,TRUE,TRUE,TRUE,TRUE,TRUE
+15,6,Kiell Smith-Bynoe,Lee Mack,David Mitchell,Sarah Kendall,Richard Osman,TRUE,TRUE,FALSE,TRUE,FALSE
+15,7,Alan Titchmarsh,Lee Mack,David Mitchell,Philippa Perry,Mike Wozniak,TRUE,TRUE,TRUE,TRUE,TRUE
+15,7,Philippa Perry,David Mitchell,Lee Mack,Lady Leshurr,Alan Titchmarsh,TRUE,TRUE,FALSE,TRUE,TRUE
+15,7,Mike Wozniak,David Mitchell,Lee Mack,Lady Leshurr,Alan Titchmarsh,TRUE,TRUE,TRUE,FALSE,FALSE
+15,7,Lady Leshurr,Lee Mack,David Mitchell,Philippa Perry,Mike Wozniak,FALSE,TRUE,FALSE,FALSE,TRUE
+15,7,Alan Titchmarsh,Lee Mack,David Mitchell,Philippa Perry,Mike Wozniak,TRUE,TRUE,TRUE,TRUE,TRUE
+15,7,Philippa Perry,David Mitchell,Lee Mack,Lady Leshurr,Alan Titchmarsh,TRUE,TRUE,FALSE,TRUE,FALSE
+15,8,Rhod Gilbert,Lee Mack,David Mitchell,Rosie Jones,Jamali Maddix,TRUE,TRUE,TRUE,FALSE,TRUE
+15,8,Rosie Jones,David Mitchell,Lee Mack,Victoria Derbyshire,Rhod Gilbert,TRUE,TRUE,TRUE,TRUE,FALSE
+15,8,Jamali Maddix,David Mitchell,Lee Mack,Victoria Derbyshire,Rhod Gilbert,TRUE,TRUE,TRUE,TRUE,TRUE
+15,8,Victoria Derbyshire,Lee Mack,David Mitchell,Rosie Jones,Jamali Maddix,TRUE,TRUE,TRUE,TRUE,TRUE
+15,9,Stephen Mulhern,Lee Mack,David Mitchell,Raj Bisram,Deborah Frances-White,FALSE,FALSE,FALSE,FALSE,FALSE
+15,9,Jenny Ryan,Lee Mack,David Mitchell,Raj Bisram,Deborah Frances-White,TRUE,TRUE,TRUE,TRUE,TRUE
+15,9,Lee Mack,Lee Mack,David Mitchell,Raj Bisram,Deborah Frances-White,TRUE,TRUE,TRUE,TRUE,FALSE
+15,9,Stephen Mulhern,Lee Mack,David Mitchell,Raj Bisram,Deborah Frances-White,TRUE,TRUE,TRUE,TRUE,TRUE
+15,9,Deborah Frances-White,David Mitchell,Lee Mack,Stephen Mulhern,Jenny Ryan,TRUE,TRUE,TRUE,TRUE,TRUE
+15,10,Jo Brand,Lee Mack,David Mitchell,Sam Quek,Joe Thomas,FALSE,FALSE,FALSE,FALSE,FALSE
+15,10,Sam Quek,David Mitchell,Lee Mack,Jo Brand,Bobby Seagull,TRUE,TRUE,TRUE,TRUE,TRUE
+15,10,Bobby Seagull,Lee Mack,David Mitchell,Sam Quek,Joe Thomas,FALSE,FALSE,FALSE,TRUE,TRUE
+15,10,Joe Thomas,David Mitchell,Lee Mack,Jo Brand,Bobby Seagull,TRUE,TRUE,TRUE,TRUE,TRUE
+15,10,Jo Brand,Lee Mack,David Mitchell,Sam Quek,Joe Thomas,TRUE,TRUE,TRUE,TRUE,TRUE
+16,1,Gloria Hunniford,David Mitchell,Lee Mack,Christopher Eccleston,Sophie Willan,TRUE,TRUE,TRUE,FALSE,FALSE
+16,1,Guz Khan,David Mitchell,Lee Mack,Christopher Eccleston,Sophie Willan,FALSE,FALSE,FALSE,FALSE,FALSE
+16,1,Christopher Eccleston,Lee Mack,David Mitchell,Gloria Hunniford,Guz Khan,TRUE,TRUE,TRUE,TRUE,FALSE
+16,1,Sophie Willan,Lee Mack,David Mitchell,Gloria Hunniford,Guz Khan,TRUE,TRUE,FALSE,TRUE,TRUE
+16,2,Motsi Mabuse,David Mitchell,Lee Mack,Shazia Mirza,Steve Pemberton,FALSE,FALSE,FALSE,FALSE,TRUE
+16,2,Steve Pemberton,Lee Mack,David Mitchell,Bez,Motsi Mabuse,TRUE,TRUE,FALSE,TRUE,FALSE
+16,2,Bez,David Mitchell,Lee Mack,Shazia Mirza,Steve Pemberton,FALSE,FALSE,FALSE,TRUE,TRUE
+16,2,Shazia Mirza,Lee Mack,David Mitchell,Bez,Motsi Mabuse,FALSE,FALSE,FALSE,FALSE,TRUE
+16,2,Bez,David Mitchell,Lee Mack,Shazia Mirza,Steve Pemberton,TRUE,TRUE,TRUE,TRUE,FALSE
+16,2,Shazia Mirza,Lee Mack,David Mitchell,Bez,Motsi Mabuse,FALSE,FALSE,TRUE,FALSE,TRUE
+16,2,Bez,David Mitchell,Lee Mack,Shazia Mirza,Steve Pemberton,FALSE,FALSE,FALSE,FALSE,FALSE
+16,2,Steve Pemberton,Lee Mack,David Mitchell,Bez,Motsi Mabuse,TRUE,TRUE,TRUE,FALSE,TRUE
+16,3,Chizzy Akudolu,Lee Mack,David Mitchell,Michelle Visage,Henning Wehn,TRUE,TRUE,TRUE,TRUE,TRUE
+16,3,Simon Gregson,Lee Mack,David Mitchell,Michelle Visage,Henning Wehn,TRUE,TRUE,FALSE,TRUE,TRUE
+16,3,Lee Mack,Lee Mack,David Mitchell,Michelle Visage,Henning Wehn,TRUE,TRUE,TRUE,FALSE,FALSE
+16,3,Henning Wehn,David Mitchell,Lee Mack,Chizzy Akudolu,Simon Gregson,FALSE,FALSE,FALSE,FALSE,TRUE
+16,4,Shirley Ballas,David Mitchell,Lee Mack,Steven Bartlett,Josie Gibson,TRUE,FALSE,TRUE,TRUE,TRUE
+16,4,Chris McCausland,David Mitchell,Lee Mack,Steven Bartlett,Josie Gibson,TRUE,TRUE,TRUE,TRUE,FALSE
+16,4,David Mitchell,David Mitchell,Lee Mack,Steven Bartlett,Josie Gibson,TRUE,TRUE,TRUE,TRUE,TRUE
+16,4,Josie Gibson,Lee Mack,David Mitchell,Shirley Ballas,Chris McCausland,FALSE,FALSE,TRUE,FALSE,FALSE
+16,4,Josie Gibson,Lee Mack,David Mitchell,Shirley Ballas,Chris McCausland,FALSE,FALSE,FALSE,TRUE,TRUE
+16,4,Steven Bartlett,Lee Mack,David Mitchell,Shirley Ballas,Chris McCausland,FALSE,FALSE,FALSE,TRUE,FALSE
+16,5,Laurence Llewelyn-Bowen,David Mitchell,Lee Mack,Jayde Adams,MIST,TRUE,TRUE,TRUE,FALSE,TRUE
+16,5,Jayde Adams,Lee Mack,David Mitchell,Laurence Llewelyn-Bowen,Ellie Simmonds,TRUE,TRUE,TRUE,FALSE,FALSE
+16,5,MIST,Lee Mack,David Mitchell,Laurence Llewelyn-Bowen,Ellie Simmonds,FALSE,FALSE,FALSE,FALSE,TRUE
+16,5,Lee Mack,Lee Mack,David Mitchell,Laurence Llewelyn-Bowen,Ellie Simmonds,TRUE,TRUE,TRUE,TRUE,FALSE
+16,5,Ellie Simmonds,David Mitchell,Lee Mack,Jayde Adams,MIST,FALSE,FALSE,TRUE,FALSE,FALSE
+16,6,Jo Brand,Lee Mack,David Mitchell,Lucy Martin,Joe Wilkinson,FALSE,FALSE,FALSE,FALSE,TRUE
+16,6,Joe Wilkinson,David Mitchell,Lee Mack,Jo Brand,Amol Rajan,TRUE,TRUE,TRUE,TRUE,FALSE
+16,6,Amol Rajan,Lee Mack,David Mitchell,Lucy Martin,Joe Wilkinson,TRUE,TRUE,TRUE,TRUE,TRUE
+16,6,Lucy Martin,David Mitchell,Lee Mack,Jo Brand,Amol Rajan,FALSE,FALSE,TRUE,FALSE,FALSE
+16,6,Jo Brand,Lee Mack,David Mitchell,Lucy Martin,Joe Wilkinson,FALSE,FALSE,FALSE,FALSE,FALSE
+16,6,Amol Rajan,Lee Mack,David Mitchell,Lucy Martin,Joe Wilkinson,TRUE,TRUE,TRUE,TRUE,FALSE
+16,6,Lee Mack,Lee Mack,David Mitchell,Lucy Martin,Joe Wilkinson,TRUE,TRUE,TRUE,TRUE,FALSE
+16,7,Snoochie Shy,David Mitchell,Lee Mack,Bob Mortimer,Prof. Alice Roberts,TRUE,TRUE,TRUE,TRUE,FALSE
+16,7,Munya Chawawa,David Mitchell,Lee Mack,Bob Mortimer,Prof. Alice Roberts,TRUE,TRUE,TRUE,FALSE,TRUE
+16,7,Bob Mortimer,Lee Mack,David Mitchell,Munya Chawawa,Snoochie Shy,FALSE,FALSE,FALSE,TRUE,TRUE
+16,7,Bob Mortimer,Lee Mack,David Mitchell,Munya Chawawa,Snoochie Shy,FALSE,FALSE,FALSE,FALSE,TRUE
+16,7,Snoochie Shy,David Mitchell,Lee Mack,Bob Mortimer,Prof. Alice Roberts,TRUE,TRUE,TRUE,TRUE,TRUE
+16,7,David Mitchell,David Mitchell,Lee Mack,Bob Mortimer,Prof. Alice Roberts,TRUE,TRUE,TRUE,FALSE,FALSE
+16,8,Anton du Beke,David Mitchell,Lee Mack,Lucy Beaumont,Ralf Little,FALSE,FALSE,FALSE,FALSE,TRUE
+16,8,Lucy Beaumont,Lee Mack,David Mitchell,Desiree Burch,Anton Du Beke,FALSE,TRUE,FALSE,FALSE,TRUE
+16,8,Desiree Burch,David Mitchell,Lee Mack,Lucy Beaumont,Ralf Little,FALSE,FALSE,FALSE,FALSE,FALSE
+16,8,David Mitchell,David Mitchell,Lee Mack,Lucy Beaumont,Ralf Little,TRUE,TRUE,TRUE,TRUE,FALSE
+16,8,Anton du Beke,David Mitchell,Lee Mack,Lucy Beaumont,Ralf Little,FALSE,FALSE,TRUE,FALSE,FALSE
+16,9,Gemma Collins,David Mitchell,Lee Mack,Asim Chaudhry,Sally Lindsay,FALSE,FALSE,TRUE,TRUE,TRUE
+16,9,Stephen Bailey,David Mitchell,Lee Mack,Asim Chaudhry,Sally Lindsay,FALSE,FALSE,TRUE,FALSE,FALSE
+16,9,Asim Chaudhry,Lee Mack,David Mitchell,Stephen Bailey,Gemma Collins,FALSE,FALSE,FALSE,FALSE,TRUE
+16,9,Sally Lindsay,Lee Mack,David Mitchell,Stephen Bailey,Gemma Collins,FALSE,TRUE,FALSE,FALSE,TRUE
+16,10,Ugo Monye,David Mitchell,Lee Mack,Tom Allen,Morgana Robinson,TRUE,TRUE,TRUE,TRUE,FALSE
+16,10,Morgana Robinson,Lee Mack,David Mitchell,Sarah Greene,Ugo Monye,TRUE,TRUE,TRUE,TRUE,FALSE
+16,10,Tom Allen,Lee Mack,David Mitchell,Sarah Greene,Ugo Monye,FALSE,FALSE,TRUE,FALSE,TRUE
+16,10,Lee Mack,Lee Mack,David Mitchell,Sarah Greene,Ugo Monye,TRUE,TRUE,TRUE,TRUE,FALSE
+16,10,Sarah Greene,David Mitchell,Lee Mack,Tom Allen,Morgana Robinson,TRUE,TRUE,TRUE,TRUE,TRUE
